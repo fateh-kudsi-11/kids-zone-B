@@ -2,11 +2,11 @@
 
 > This application is back end server to **KIDZ ZONE** e-commerce app
 
----
+### [live demo](https://kids-zone-78iyr0h8k-fateh-kudsi-11.vercel.app/)
 
 #### To vist front end App
 
-[Front end Nextjs](http://dev.nodeca.com)
+[Front end Nextjs](https://github.com/fateh-kudsi-11/kids-zone-F)
 
 ---
 
@@ -28,12 +28,18 @@
 
 - run the following command in the base directory of this project to install project dependencies
 
-```js
+```bash
 npm install
 ```
 
 - run the following command to start the project
 
-```js
+```bash
 npm run dev
+```
+
+- In case you want use my project data run the following command.
+
+```bash
+node seeder -i
 ```
