@@ -1,0 +1,6019 @@
+[
+  {
+    "gender": "boys",
+    "productName": "Boys Grey Logo Sweatshirt",
+    "brand": "guess",
+    "price": 26990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "grey",
+        "colorCode": "#C3C4BE"
+      },
+      {
+        "colorName": "black",
+        "colorCode": "#241D1C"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "grey",
+        "images": [
+          "/images/boys/activewear/tops/guess/337967/grey/1.jpg",
+          "/images/boys/activewear/tops/guess/337967/grey/2.jpg"
+        ]
+      },
+      {
+        "imagesColor": "black",
+        "images": [
+          "/images/boys/activewear/tops/guess/337967/black/1.jpg",
+          "/images/boys/activewear/tops/guess/337967/black/2.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["grey", "black"],
+    "description": "Boys grey sweatshirt from Guess, made in soft and stretchy sweatshirt jersey. It has glow-in-the-dark white logo prints on the back and front.",
+    "details": [
+      "76% cotton, 24% polyamide (soft, stretchy sweatshirt jersey)",
+      "Machine wash (30*C)",
+      "Glow-in-the-dark logo prints"
+    ],
+    "category": "activewear",
+    "productType": "tops",
+    "productNumber": 337967
+  },
+  {
+    "gender": "boys",
+    "productName": "Boys Black Logo T-Shirt",
+    "brand": "EA7 Emporio Armani",
+    "price": 40990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "yellow",
+        "colorCode": "#FDCB51"
+      },
+      {
+        "colorName": "black",
+        "colorCode": "#292728"
+      },
+      {
+        "colorName": "grey",
+        "colorCode": "#525553"
+      },
+      {
+        "colorName": "white",
+        "colorCode": "#F7F7F7"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "grey",
+        "images": [
+          "/images/boys/activewear/tops/ea7-emporio-armani/327447/grey/1.jpg",
+          "/images/boys/activewear/tops/ea7-emporio-armani/327447/grey/2.jpg"
+        ]
+      },
+      {
+        "imagesColor": "black",
+        "images": [
+          "/images/boys/activewear/tops/ea7-emporio-armani/327447/black/1.jpg",
+          "/images/boys/activewear/tops/ea7-emporio-armani/327447/black/2.jpg",
+          "/images/boys/activewear/tops/ea7-emporio-armani/327447/black/3.jpg"
+        ]
+      },
+      {
+        "imagesColor": "yellow",
+        "images": [
+          "/images/boys/activewear/tops/ea7-emporio-armani/327447/yellow/1.jpg",
+          "/images/boys/activewear/tops/ea7-emporio-armani/327447/yellow/2.jpg"
+        ]
+      },
+      {
+        "imagesColor": "white",
+        "images": [
+          "/images/boys/activewear/tops/ea7-emporio-armani/327447/white/1.jpg",
+          "/images/boys/activewear/tops/ea7-emporio-armani/327447/white/2.jpg",
+          "/images/boys/activewear/tops/ea7-emporio-armani/327447/white/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["grey", "black", "white", "yellow"],
+    "description": "Black T-shirt for boys by EA7 Emporio Armani. Made in comfortable oraganic cotton jersey, it has the brand's logo on the front in neon yellow and grey.",
+    "details": [
+      "100% soft, stretchy organic cotton",
+      "Machine wash (30*C)",
+      "Organic Cotton"
+    ],
+    "category": "activewear",
+    "productType": "tops",
+    "productNumber": 327447
+  },
+  {
+    "gender": "boys",
+    "productName": "Boys Red T-Shirt",
+    "brand": "Lacoste Sport",
+    "price": 20990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "red",
+        "colorCode": "#E01B30"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "red",
+        "images": [
+          "/images/boys/activewear/tops/lacoste-sport/340564/red/1.jpg",
+          "/images/boys/activewear/tops/lacoste-sport/340564/red/2.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["red"],
+    "description": "Boys grey sweatshirt from Guess, made in soft and stretchy sweatshirt jersey. It has glow-in-the-dark white logo prints on the back and front.",
+    "details": [
+      "76% cotton, 24% polyamide (soft, stretchy sweatshirt jersey)",
+      "Machine wash (30*C)",
+      "Glow-in-the-dark logo prints"
+    ],
+    "category": "activewear",
+    "productType": "tops",
+    "productNumber": 340564
+  },
+  {
+    "gender": "boys",
+    "productName": "Cotton Logo T-Shirt",
+    "brand": "Givenchy",
+    "price": 22990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "white",
+        "colorCode": "#F5F5F5"
+      },
+      {
+        "colorName": "black",
+        "colorCode": "#251C1D"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "white",
+        "images": [
+          "/images/boys/activewear/tops/givenchy/335475/white/1.jpg",
+          "/images/boys/activewear/tops/givenchy/335475/white/2.jpg",
+          "/images/boys/activewear/tops/givenchy/335475/white/3.jpg"
+        ]
+      },
+      {
+        "imagesColor": "black",
+        "images": [
+          "/images/boys/activewear/tops/givenchy/335475/black/1.jpg",
+          "/images/boys/activewear/tops/givenchy/335475/black/2.jpg",
+          "/images/boys/activewear/tops/givenchy/335475/black/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["white", "black"],
+    "description": "Boys white Mini-me T-shirt from luxury brand Givenchy, made in comfortable cotton jersey. It has a black 4G logo print on the front and a sporty-style, colourful 4G logo on the back.",
+    "details": [
+      "Mini-me",
+      "100% soft & stretchy cotton jersey",
+      "Machine wash (30*C)",
+      "Small fitting brand",
+      "Glow-in-the-dark logo prints"
+    ],
+    "category": "activewear",
+    "productType": "tops",
+    "productNumber": 335475
+  },
+  {
+    "gender": "boys",
+    "productName": "Boys Black & White Logo Top",
+    "brand": "EA7 Emporio Armani",
+    "price": 43990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "white",
+        "colorCode": "#F5F5F5"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "white",
+        "images": [
+          "/images/boys/activewear/tops/ea7-emporio-armani/327431/white/1.jpg",
+          "/images/boys/activewear/tops/ea7-emporio-armani/327431/white/2.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["white"],
+    "description": "Black and white top for boys by EA7 Emporio Armani. Made in soft and stretchy cotton jersey, it has a black logo print on the front and a white logo print on the back.",
+    "details": ["100% soft & stretchy cotton jersey", "Machine wash (30*C)"],
+    "category": "activewear",
+    "productType": "tops",
+    "productNumber": 327431
+  },
+  {
+    "gender": "boys",
+    "productName": "Boys Blue & Red Logo T-Shirt",
+    "brand": "Aigner Kids",
+    "price": 47990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "blue",
+        "colorCode": "#21223B"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "blue",
+        "images": [
+          "/images/boys/activewear/tops/aigner-kids/325114/blue/1.jpg",
+          "/images/boys/activewear/tops/aigner-kids/325114/blue/2.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["blue"],
+    "description": "Boys navy blue, white and red sports T-shirt from Aigner Kids, with the signature 'A' horseshoe logo in gold embroidery and print. It is made in silky smooth, breathable polyester jersey, ideal for keeping active boys cool and comfortable.",
+    "details": [
+      "88% polyester, 12% elastane (silky smooth, stretchy)",
+      "Machine wash (30*C)",
+      "Breathable fabric"
+    ],
+    "category": "activewear",
+    "productType": "tops",
+    "productNumber": 325114
+  },
+  {
+    "gender": "boys",
+    "productName": "Boys Ultra Dry Polo Shirt",
+    "brand": "Lacoste Sport",
+    "price": 54990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "white",
+        "colorCode": "#fefefe"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "white",
+        "images": [
+          "/images/boys/activewear/tops/lacoste-sport/340585/white/1.jpg",
+          "/images/boys/activewear/tops/lacoste-sport/340585/white/2.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["white"],
+    "description": "Boys white polo shirt by Lacoste Sport, with blue and green panels. It is made in quick drying Ultra Dry fabric, and is ideal for sports and leisure activities.",
+    "details": [
+      "100% polyester (Ultra Dry)",
+      "Machine wash (30*C)",
+      "Button fastening"
+    ],
+    "category": "activewear",
+    "productType": "tops",
+    "productNumber": 340585
+  },
+  {
+    "gender": "boys",
+    "productName": "White Cotton Logo T-Shirt",
+    "brand": "Nike",
+    "price": 13990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "white",
+        "colorCode": "#F8FAFB"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "white",
+        "images": [
+          "/images/boys/activewear/tops/nike/360374/white/1.jpg",
+          "/images/boys/activewear/tops/nike/360374/white/2.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["white"],
+    "description": "Boys white cotton jersey T-shirt by Nike. The front is printed with a graphic metallic blue logo, with a red 'swoosh' logo underneath.",
+    "details": ["100% cotton jersey (soft & stretchy)", "Machine wash (30*C)"],
+    "category": "activewear",
+    "productType": "tops",
+    "productNumber": 360374
+  },
+  {
+    "gender": "boys",
+    "productName": "Black Cotton Logo Top",
+    "brand": "Lacoste Sport",
+    "price": 34990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "black",
+        "colorCode": "#2A242B"
+      },
+      {
+        "colorName": "white",
+        "colorCode": "#F9F9F9"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "black",
+        "images": [
+          "/images/boys/activewear/tops/lacoste-sport/340431/black/1.jpg",
+          "/images/boys/activewear/tops/lacoste-sport/340431/black/2.jpg"
+        ]
+      },
+      {
+        "imagesColor": "white",
+        "images": [
+          "/images/boys/activewear/tops/lacoste-sport/340431/white/1.jpg",
+          "/images/boys/activewear/tops/lacoste-sport/340431/white/2.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["white", "black"],
+    "description": "Boys white cotton jersey T-shirt by Nike. The front is printed with a graphic metallic blue logo, with a red 'swoosh' logo underneath.",
+    "details": ["100% cotton jersey (soft & stretchy)", "Machine wash (30*C)"],
+    "category": "activewear",
+    "productType": "tops",
+    "productNumber": 340431
+  },
+  {
+    "gender": "boys",
+    "productName": "Black Logo T-Shirt",
+    "brand": "Nike",
+    "price": 16990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "black",
+        "colorCode": "#1B1819"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "black",
+        "images": [
+          "/images/boys/activewear/tops/nike/360314/black/1.jpg",
+          "/images/boys/activewear/tops/nike/360314/black/2.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["black"],
+    "description": "Boys black activewear T-shirt by Nike, with a colourful, graphic 'Swoosh' logo print. Made with Dri-Fit Technology, to keep the wearer dry and wick away moisture during exercise.",
+    "details": [
+      "100% cotton jersey (soft & stretchy)",
+      "Machine wash (30*C)",
+      "Dri-Fit Technology"
+    ],
+    "category": "activewear",
+    "productType": "tops",
+    "productNumber": 360314
+  },
+  {
+    "gender": "boys",
+    "productName": "White Logo Sports T-Shirt",
+    "brand": "Tommy Hilfiger",
+    "price": 29990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "White ",
+        "colorCode": "#F7F7F7"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "White ",
+        "images": [
+          "/images/boys/activewear/tops/tommy-hilfiger/359245/White/1.jpg",
+          "/images/boys/activewear/tops/tommy-hilfiger/359245/White/2.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["White"],
+    "description": "A Childrensalon UK exclusive, this white activewear T-shirt for boys is by Tommy Hilfiger. Made in a lightweight nylon jersey, it has navy blue, white and red striped, perforated panels on the sides to aid airflow. There are printed logo branding on the chest, sleeves and back.",
+    "details": [
+      "84% polyester, 16% elastane (soft & stretchy, lightweight)",
+      "Machine wash (30*C)",
+      "Perforated panels on the sides",
+      "Bobbling may occur with wash & wear"
+    ],
+    "category": "activewear",
+    "productType": "tops",
+    "productNumber": 359245
+  },
+  {
+    "gender": "boys",
+    "productName": "Black Technical Logo Top",
+    "brand": "BOSS Kidswear",
+    "price": 41990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "black ",
+        "colorCode": "#231E20"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "black ",
+        "images": [
+          "/images/boys/activewear/tops/boss-kidswear/330028/black/1.jpg",
+          "/images/boys/activewear/tops/boss-kidswear/330028/black/2.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["black"],
+    "description": "Black top for boys by BOSS Kidswear. Suitable for sportswear, it is made in soft, stretchy technical jersey. It has a logo design on the front in grey and pink and another on the back.",
+    "details": [
+      "65% polyester, 35% cotton (soft, stretchy technical jersey)",
+      "Machine wash (30*C)",
+      "Slim fit"
+    ],
+    "category": "activewear",
+    "productType": "tops",
+    "productNumber": 330028
+  },
+  {
+    "gender": "boys",
+    "productName": "Blue Cotton Logo T-Shirt",
+    "brand": "Lacoste Sport",
+    "price": 14990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "blue ",
+        "colorCode": "#0278C0"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "blue ",
+        "images": [
+          "/images/boys/activewear/tops/lacoste-sport/339339/blue/1.jpg",
+          "/images/boys/activewear/tops/lacoste-sport/339339/blue/2.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["black"],
+    "description": "Boys blue T-shirt from Lacoste Sport, with the iconic green rubberised crocodile logo on the chest. It is made in technical, ultra dry cotton jersey.",
+    "details": [
+      "65% cotton, 35% polyester (soft & stretchy jersey)",
+      "Collar: 50% cotton, 50% polyester",
+      "Machine wash (30*C)",
+      "Ultra dry technical fabric"
+    ],
+    "category": "activewear",
+    "productType": "tops",
+    "productNumber": 339339
+  },
+  {
+    "gender": "boys",
+    "productName": "Orange Cotton T-Shirt",
+    "brand": "EA7 Emporio Armani",
+    "price": 34990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "orange",
+        "colorCode": "#FD7B32"
+      },
+      {
+        "colorName": "white",
+        "colorCode": "#F7F7F7"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "orange",
+        "images": [
+          "/images/boys/activewear/tops/ea7-emporio-armani/327437/orange/1.jpg",
+          "/images/boys/activewear/tops/ea7-emporio-armani/327437/orange/2.jpg"
+        ]
+      },
+      {
+        "imagesColor": "white",
+        "images": [
+          "/images/boys/activewear/tops/ea7-emporio-armani/327437/white/1.jpg",
+          "/images/boys/activewear/tops/ea7-emporio-armani/327437/white/2.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["orange", "white"],
+    "description": "Boys orange cotton jersey T-shirt by EA7 Emporio Armani, with a black rubber logo on the chest.",
+    "details": ["100% soft cotton jersey", "Machine wash (30*C)"],
+    "category": "activewear",
+    "productType": "tops",
+    "productNumber": 327437
+  },
+  {
+    "gender": "boys",
+    "productName": "Boys Blue Cotton Zip-Up Top",
+    "brand": "Gucci",
+    "price": 259990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "black",
+        "colorCode": "#1D181C"
+      },
+      {
+        "colorName": "grey",
+        "colorCode": "#A2A4A7"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "black",
+        "images": [
+          "/images/boys/activewear/tops/gucci/281329/black/1.jpg",
+          "/images/boys/activewear/tops/gucci/281329/black/2.jpg"
+        ]
+      },
+      {
+        "imagesColor": "grey",
+        "images": [
+          "/images/boys/activewear/tops/gucci/281329/grey/1.jpg",
+          "/images/boys/activewear/tops/gucci/281329/grey/2.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["black", "grey"],
+    "description": "Boys navy blue Mini-me zip-up top from luxury designer Gucci, made in mid-weight cotton sweatshirt jersey. This '80s and '90s inspired top has a green and red interlocking G patch and silky-feel green and red web stripes.",
+    "details": [
+      "Mini-me",
+      "100% soft cotton jersey",
+      "100% nylon web insert",
+      "Machine wash (30*C)",
+      "Zip-up"
+    ],
+    "category": "activewear",
+    "productType": "tops",
+    "productNumber": 281329
+  },
+  {
+    "gender": "boys",
+    "productName": "Grey Cotton Logo Hoodie",
+    "brand": "Lacoste Sport",
+    "price": 24990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "grey",
+        "colorCode": "#C9C7CA"
+      },
+      {
+        "colorName": "blue",
+        "colorCode": "#25252F"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "grey",
+        "images": [
+          "/images/boys/activewear/tops/lacoste-sport/340540/grey/1.jpg",
+          "/images/boys/activewear/tops/lacoste-sport/340540/grey/2.jpg"
+        ]
+      },
+      {
+        "imagesColor": "blue",
+        "images": [
+          "/images/boys/activewear/tops/lacoste-sport/340540/blue/1.jpg",
+          "/images/boys/activewear/tops/lacoste-sport/340540/blue/2.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["blue", "grey"],
+    "description": "Boys grey hooded zip-up top by Lacoste Sport, made in a soft cotton jersey. It has a soft, fleecy inside and the designer's iconic logo crocodile badge on the chest. The hood has a lightweight, navy blue cotton jersey lining.",
+    "details": [
+      "69% cotton jersey, 31% polyester (soft & stretchy)",
+      "Hood lining: 100% soft & stretchy cotton jersey",
+      "Machine wash (40*C)",
+      "Zip fastening"
+    ],
+    "category": "activewear",
+    "productType": "tops",
+    "productNumber": 340540
+  },
+  {
+    "gender": "boys",
+    "productName": "Black Thermal Ski Top",
+    "brand": "Moncler Enfant",
+    "price": 199990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "black",
+        "colorCode": "#30292B"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "black",
+        "images": [
+          "/images/boys/activewear/tops/moncler-enfant/352301/black/1.jpg",
+          "/images/boys/activewear/tops/moncler-enfant/352301/black/2.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["black"],
+    "description": "Black thermal ski top by Moncler Enfant, forming part of the Grenoble collection. Combining performance and style, this lightweight jersey top is perfect as a base layer, on and off the slopes. It has a front half zip with chin guard, logo badge on one sleeve and signature red, white and blue logo trims.",
+    "details": [
+      "88% polyester jersey, 12% elastane (soft, stretchy)",
+      "Machine wash (30*C)",
+      "Zip fastening"
+    ],
+    "category": "activewear",
+    "productType": "tops",
+    "productNumber": 352301
+  },
+  {
+    "gender": "boys",
+    "productName": "Boys Navy Blue Blazer",
+    "brand": "Tommy Hilfiger",
+    "price": 89990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "black",
+        "colorCode": "#241D1C"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "black",
+        "images": [
+          "/images/boys/jackets/tommy-hilfiger/388387/black/1.jpg",
+          "/images/boys/jackets/tommy-hilfiger/388387/black/2.jpg",
+          "/images/boys/jackets/tommy-hilfiger/388387/black/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["black"],
+    "description": "Navy blue blazer for boys by Tommy Hilfiger, made in a soft blend of viscose and polyester. There is a silky smooth navy blue and white striped lining with an internal pocket. The brand's signature flag logo is embroidered close to one cuff and there are two faux pocket flaps on the front.",
+    "details": [
+      "70% polyester, 28% viscose, 2% elastane (soft)",
+      "Machine wash (30*C)",
+      "Front button fastenings"
+    ],
+    "category": "jackets",
+    "productType": "tops",
+    "productNumber": 388387
+  },
+  {
+    "gender": "boys",
+    "productName": "Green Padded Hooded Gilet",
+    "brand": "Lapin House",
+    "price": 159990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "green",
+        "colorCode": "#0d4a20"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "green",
+        "images": [
+          "/images/boys/jackets/lapin-house/400382/green/1.jpg",
+          "/images/boys/jackets/lapin-house/400382/green/2.jpg",
+          "/images/boys/jackets/lapin-house/400382/green/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["green"],
+    "description": "Green and grey padded gilet for little boys by Lapin House. Warmly padded, it is made in smooth nylon, with a quilted-feel angora blend jersey lining. It fastens with a zip on the front and the zip-on hood is detachable. There is a brown logo patch on the chest and two zipped front pockets.",
+    "details": [
+      "70% Tactel, 30% polyurethane (smooth nylon)",
+      "Front zip fastening",
+      "Made in Europe",
+      "Front button fastenings"
+    ],
+    "category": "jackets",
+    "productType": "tops",
+    "productNumber": 400382
+  },
+  {
+    "gender": "boys",
+    "productName": "Navy Blue Jersey Blazer",
+    "brand": "Lapin House",
+    "price": 176990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "blue",
+        "colorCode": "#051b33"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "blue",
+        "images": [
+          "/images/boys/jackets/lapin-house/400362/blue/1.jpg",
+          "/images/boys/jackets/lapin-house/400362/blue/2.jpg",
+          "/images/boys/jackets/lapin-house/400362/blue/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["blue"],
+    "description": "Navy blue blazer for boys by Lapin House, made in soft cotton jersey. It has a removable grey faux hoodie underneath. The blazer fastens with silver metal buttons and the detachable hoodie section has a zip. It has front pockets, grey, navy blue and white ribbed cuffs and a logo patch on the chest.",
+    "details": [
+      "61% viscose, 39% tactel (soft jersey)",
+      "Jacket: button fastening",
+      "Made in Europe",
+      "Hoodie: zip fastening"
+    ],
+    "category": "jackets",
+    "productType": "tops",
+    "productNumber": 400362
+  },
+  {
+    "gender": "boys",
+    "productName": "Navy Blue Down Puffer Jacket",
+    "brand": "Moncler Enfant",
+    "price": 469990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "black",
+        "colorCode": "#01050a"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "black",
+        "images": [
+          "/images/boys/jackets/moncler-enfant/412188/black/1.jpg",
+          "/images/boys/jackets/moncler-enfant/412188/black/2.jpg",
+          "/images/boys/jackets/moncler-enfant/412188/black/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["black"],
+    "description": "Boys navy blue down padded puffer jacket by French luxury brand Moncler Enfant, made in water repellent matt nylon, with shiny contrasting panels and a detachable hood. There are zip fastening pockets on the front and the brand's iconic rubber logo on one sleeve.",
+    "details": [
+      "100% polyamide (silky & matt)",
+      "Zip fastening",
+      "Made in Europe",
+      "Detachable hood"
+    ],
+    "category": "jackets",
+    "productType": "tops",
+    "productNumber": 412188
+  },
+  {
+    "gender": "boys",
+    "productName": "Black Down Padded Hooded Coat",
+    "brand": "BOSS Kidswear",
+    "price": 229990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "black",
+        "colorCode": "#01050a"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "black",
+        "images": [
+          "/images/boys/jackets/boss-kidswear/405673/black/1.jpg",
+          "/images/boys/jackets/boss-kidswear/405673/black/2.jpg",
+          "/images/boys/jackets/boss-kidswear/405673/black/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["black"],
+    "description": "Mini-me black hooded coat for boys by BOSS Kidswear, padded with insulating down. With a water repellent finish, this soft polyester coat has a gold logo on the front, a rubber sealed zip fastening and fleece lined front pockets.",
+    "details": [
+      "Gold Capsule Collection",
+      "Zip fastening",
+      "Water repellent",
+      "Machine wash (30*C)"
+    ],
+    "category": "jackets",
+    "productType": "tops",
+    "productNumber": 405673
+  },
+  {
+    "gender": "boys",
+    "productName": "Black Puffer Logo Gilet",
+    "brand": "Guess",
+    "price": 54999,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "black",
+        "colorCode": "#01050a"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "black",
+        "images": [
+          "/images/boys/jackets/guess/397069/black/1.jpg",
+          "/images/boys/jackets/guess/397069/black/2.jpg",
+          "/images/boys/jackets/guess/397069/black/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["black"],
+    "description": "Girls and boys black puffer gilet from Guess, with a red, white and black logo patch on chest. It is made in silky-feel nylon, with a smooth polyester lining and lightweight padding. There is a front zip fastening and zipped pockets",
+    "details": [
+      "100% polyamide (silky soft)",
+      "Zip fastenings on the front & pockets",
+      "Suitable for boys & girls",
+      "Machine wash (30*C)"
+    ],
+    "category": "jackets",
+    "productType": "tops",
+    "productNumber": 397069
+  },
+  {
+    "gender": "boys",
+    "productName": "Navy Blue Logo Puffer Jacket",
+    "brand": "Levi's",
+    "price": 73990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "gray",
+        "colorCode": "#a0a7b0"
+      },
+      {
+        "colorName": "red",
+        "colorCode": "#d9091a"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "gray",
+        "images": [
+          "/images/boys/jackets/levis/419735/gray/1.jpg",
+          "/images/boys/jackets/levis/419735/gray/2.jpg",
+          "/images/boys/jackets/levis/419735/gray/3.jpg"
+        ]
+      },
+      {
+        "imagesColor": "red",
+        "images": [
+          "/images/boys/jackets/levis/419735/red/1.jpg",
+          "/images/boys/jackets/levis/419735/red/2.jpg",
+          "/images/boys/jackets/levis/419735/red/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["gray", "red"],
+    "description": "Navy blue puffer jacket for boys, by Levi's. Made from soft polyester, it has a white and red logo stripe across the chest, a white logo print on the zip trim and the hood, and a rubberised navy blue logo on the sleeve.",
+    "details": [
+      "100% polyamide (silky soft)",
+      "Zip fastenings on the front & pockets",
+      "Suitable for boys & girls",
+      "Machine wash (30*C)"
+    ],
+    "category": "jackets",
+    "productType": "tops",
+    "productNumber": 419735
+  },
+  {
+    "gender": "boys",
+    "productName": "Navy Blue Down Padded Jacket",
+    "brand": "Moncler Enfant",
+    "price": 424990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "black",
+        "colorCode": "#01050a"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "black",
+        "images": [
+          "/images/boys/jackets/moncler-enfant/412190/black/1.jpg",
+          "/images/boys/jackets/moncler-enfant/412190/black/2.jpg",
+          "/images/boys/jackets/moncler-enfant/412190/black/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["black"],
+    "description": "Navy blue puffer jacket for boys, by luxury French brand Moncler Enfant. Luxuriously padded with down, it has the brand's iconic logo rubberised on the arm, a white logo stripe on the zip fastening, and a useful detachable silky hood.",
+    "details": [
+      "100% polyamide (soft & smooth)",
+      "Zip fastening",
+      "Made in Europe",
+      "Style name: Hale"
+    ],
+    "category": "jackets",
+    "productType": "tops",
+    "productNumber": 412190
+  },
+  {
+    "gender": "boys",
+    "productName": "Blue Down Padded Puffer Jacket",
+    "brand": "Moncler Enfant",
+    "price": 444990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "black",
+        "colorCode": "#01050a"
+      },
+      {
+        "colorName": "red",
+        "colorCode": "#d9091a"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "black",
+        "images": [
+          "/images/boys/jackets/moncler-enfant/412158/black/1.jpg",
+          "/images/boys/jackets/moncler-enfant/412158/black/2.jpg",
+          "/images/boys/jackets/moncler-enfant/412158/black/3.jpg"
+        ]
+      },
+      {
+        "imagesColor": "red",
+        "images": [
+          "/images/boys/jackets/moncler-enfant/412158/red/1.jpg",
+          "/images/boys/jackets/moncler-enfant/412158/red/2.jpg",
+          "/images/boys/jackets/moncler-enfant/412158/red/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["black", "red"],
+    "description": "Boys navy blue down-filled puffer jacket by luxury brand Moncler Enfant. Water resistant, it has a silky smooth shiny exterior, front pockets and fastens with a zip. There is an ivory logo patch on the arm and the iconic red, ivory and blue trim on the hood and ribbed cuffs.",
+    "details": [
+      "Main & lining: 100% polyamide (silky smooth)",
+      "Zip fastening",
+      "Made in Europe",
+      "Water resistant"
+    ],
+    "category": "jackets",
+    "productType": "tops",
+    "productNumber": 412158
+  },
+  {
+    "gender": "boys",
+    "productName": "Boys Blue Puffer Coat",
+    "brand": "Mayoral",
+    "price": 50990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "blue",
+        "colorCode": "#4343ab"
+      },
+      {
+        "colorName": "yellow",
+        "colorCode": "#f5de11"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "blue",
+        "images": [
+          "/images/boys/jackets/mayoral/411074/blue/1.jpg",
+          "/images/boys/jackets/mayoral/411074/blue/2.jpg",
+          "/images/boys/jackets/mayoral/411074/blue/3.jpg"
+        ]
+      },
+      {
+        "imagesColor": "yellow",
+        "images": [
+          "/images/boys/jackets/mayoral/411074/yellow/1.jpg",
+          "/images/boys/jackets/mayoral/411074/yellow/2.jpg",
+          "/images/boys/jackets/mayoral/411074/yellow/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["blue", "yellow"],
+    "description": "Boys blue puffer coat from Mayoral, with navy blue, red and white striped trim. It is warmly padded and made in silky-smooth polyester, with a navy blue fleece lining. It fastens with a popper fastening flap over a concealed zip on the front",
+    "details": [
+      "Main & lining: 100% polyamide (silky smooth)",
+      "Zip fastening",
+      "Lining: 100% polyester (soft fleece)",
+      "Water resistant"
+    ],
+    "category": "jackets",
+    "productType": "tops",
+    "productNumber": 411074
+  },
+  {
+    "gender": "boys",
+    "productName": "Blue & Green Puffer Coat",
+    "brand": "Mayoral",
+    "price": 53990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "green",
+        "colorCode": "#1e5c2f"
+      },
+      {
+        "colorName": "red",
+        "colorCode": "#b00000"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "green",
+        "images": [
+          "/images/boys/jackets/mayoral/411428/green/1.jpg",
+          "/images/boys/jackets/mayoral/411428/green/2.jpg",
+          "/images/boys/jackets/mayoral/411428/green/3.jpg"
+        ]
+      },
+      {
+        "imagesColor": "red",
+        "images": [
+          "/images/boys/jackets/mayoral/411428/red/1.jpg",
+          "/images/boys/jackets/mayoral/411428/red/2.jpg",
+          "/images/boys/jackets/mayoral/411428/red/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["green", "red"],
+    "description": "Navy blue and green puffer coat for boys by Mayoral, with red and white trims. With mid-weight padding, it has useful front pockets, a detachable hood and a warm fleecy lining with an inner ribbed hem and cuffs. The brand's logo is printed on the front in red, white and green.",
+    "details": [
+      "98% polyester, 2% elastane (soft, silky)",
+      "Zip fastening",
+      "Lining: 100% polyester (soft fleece)",
+      "Machine wash (30*C)"
+    ],
+    "category": "jackets",
+    "productType": "tops",
+    "productNumber": 411428
+  },
+  {
+    "gender": "boys",
+    "productName": "Boys Green Windbreaker Jacket",
+    "brand": "Mayoral",
+    "price": 28990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "green",
+        "colorCode": "#3cde2a"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "green",
+        "images": [
+          "/images/boys/jackets/mayoral/372577/green/1.jpg",
+          "/images/boys/jackets/mayoral/372577/green/2.jpg",
+          "/images/boys/jackets/mayoral/372577/green/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["green"],
+    "description": "Boys green zip-up windbreaker jacket by Mayoral. Made in smooth, lightweight nylon, the sleeves are in a double layer with printed navy blue stripes. The body and hood are lined in navy blue and white striped polycotton piqué for added warmth. It has a blue slogan logo on the chest and zipped pockets.",
+    "details": [
+      "100% polyamide (smooth nylon)",
+      "Zip fastening on the front & pockets",
+      "Machine wash (30*C)"
+    ],
+    "category": "jackets",
+    "productType": "tops",
+    "productNumber": 372577
+  },
+  {
+    "gender": "boys",
+    "productName": "Boys 3 Piece Top & Shorts Set",
+    "brand": "Mayoral",
+    "price": 12990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "white",
+        "colorCode": "#f0f5f0"
+      },
+      {
+        "colorName": "blue",
+        "colorCode": "#1b1b7d"
+      },
+      {
+        "colorName": "red",
+        "colorCode": "#c91a32"
+      },
+      {
+        "colorName": "yellow",
+        "colorCode": "#e3b62d"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "white",
+        "images": [
+          "/images/boys/outfits/mayoral/371981/white/1.jpg",
+          "/images/boys/outfits/mayoral/371981/white/2.jpg"
+        ]
+      },
+      {
+        "imagesColor": "blue",
+        "images": [
+          "/images/boys/outfits/mayoral/371981/blue/1.jpg",
+          "/images/boys/outfits/mayoral/371981/blue/2.jpg"
+        ]
+      },
+      {
+        "imagesColor": "red",
+        "images": [
+          "/images/boys/outfits/mayoral/371981/red/1.jpg",
+          "/images/boys/outfits/mayoral/371981/red/2.jpg"
+        ]
+      },
+      {
+        "imagesColor": "yellow",
+        "images": [
+          "/images/boys/outfits/mayoral/371981/yellow/1.jpg",
+          "/images/boys/outfits/mayoral/371981/yellow/2.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["white", "blue", "red", "yellow"],
+    "description": "Younger boys three-piece outfit by Mayoral, made in soft cotton jersey. The white vest top has blue, red and green stripes with a surf board print, and the white T-shirt has a tropical surf board print. The navy blue shorts have a ribbed waistband and adjustable drawstring tie.",
+    "details": [
+      "Tops: 100% cotton (soft jersey)",
+      "Shorts: 98% cotton, 2% elastane (soft jersey)",
+      "Tops: shoulder popper fastenings"
+    ],
+    "category": "outfits",
+    "productType": "tops",
+    "productNumber": 371981
+  },
+  {
+    "gender": "boys",
+    "productName": "Boys 3 Piece Jersey Shorts Set",
+    "brand": "Mayoral",
+    "price": 31990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "black",
+        "colorCode": "#1a1918"
+      },
+      {
+        "colorName": "orange",
+        "colorCode": "#e66a17"
+      },
+      {
+        "colorName": "yellow",
+        "colorCode": "#bfb62e"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "black",
+        "images": [
+          "/images/boys/outfits/mayoral/371982/black/1.jpg",
+          "/images/boys/outfits/mayoral/371982/black/2.jpg"
+        ]
+      },
+      {
+        "imagesColor": "orange",
+        "images": [
+          "/images/boys/outfits/mayoral/371982/orange/1.jpg",
+          "/images/boys/outfits/mayoral/371982/orange/2.jpg"
+        ]
+      },
+      {
+        "imagesColor": "yellow",
+        "images": [
+          "/images/boys/outfits/mayoral/371982/yellow/1.jpg",
+          "/images/boys/outfits/mayoral/371982/yellow/2.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["black", "orange", "yellow"],
+    "description": "Boys surfing and beach-themed shorts set with two T-shirts by Mayoral, made in soft cotton jersey. The T-shirts are in white and navy blue, both printed with colourful surf boards, palm trees and beach scenes. The red shorts have an elasticated drawstring waistband, pockets and a matching round print on one leg.",
+    "details": [
+      "Tops: 100% cotton (soft jersey)",
+      "2 piece set",
+      "Machine wash (30*C)"
+    ],
+    "category": "outfits",
+    "productType": "tops",
+    "productNumber": 371982
+  },
+  {
+    "gender": "boys",
+    "productName": "Boys White & Blue Shorts Set",
+    "brand": "Mayoral",
+    "price": 26990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "blue",
+        "colorCode": "#0c2559"
+      },
+      {
+        "colorName": "yellow",
+        "colorCode": "#dbc93d"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "blue",
+        "images": [
+          "/images/boys/outfits/mayoral/372158/blue/1.jpg",
+          "/images/boys/outfits/mayoral/372158/blue/2.jpg"
+        ]
+      },
+
+      {
+        "imagesColor": "yellow",
+        "images": [
+          "/images/boys/outfits/mayoral/372158/yellow/1.jpg",
+          "/images/boys/outfits/mayoral/372158/yellow/2.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["blue", "yellow"],
+    "description": "Boys white T-shirt and navy blue shorts set by Mayoral, made in soft and stretchy cotton jersey. The top has a beige, blue and brown paddle board print and a navy blue patch on the front hem. The navy blue shorts with brown palm tree pattern have an elasticated drawstring waistband and pockets on the sides and back.",
+    "details": [
+      "Tops: 100% cotton (soft jersey)",
+      "Elasticated drawstring waistband on the shorts",
+      "Machine wash (30*C)"
+    ],
+    "category": "outfits",
+    "productType": "tops",
+    "productNumber": 372158
+  },
+  {
+    "gender": "boys",
+    "productName": "Boys White & Black Shorts Set",
+    "brand": "Mayoral",
+    "price": 29990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "white",
+        "colorCode": "#f7f7f7"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "white",
+        "images": [
+          "/images/boys/outfits/mayoral/371964/white/1.jpg",
+          "/images/boys/outfits/mayoral/371964/white/2.jpg",
+          "/images/boys/outfits/mayoral/371964/white/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["white"],
+    "description": "White and black shorts set for boys by Mayoral Nukutavake, made in soft cotton jersey. The white T-shirt has a tropical floral print, with a navy blue rubberised slogan on the chest. The black mid-weight shorts have pockets on the front and side of one leg, a white rubberised logo on one leg, and a drawstring waist.",
+    "details": [
+      "Top: 100% soft & stretchy cotton jersey",
+      "Drawstring waist on the shorts",
+      "Machine wash (30*C)"
+    ],
+    "category": "outfits",
+    "productType": "tops",
+    "productNumber": 371964
+  },
+  {
+    "gender": "boys",
+    "productName": "White & Blue Polo Shorts Set",
+    "brand": "Mayoral",
+    "price": 18990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "white",
+        "colorCode": "#f7f7f7"
+      },
+      {
+        "colorName": "blue",
+        "colorCode": "#0b093d"
+      },
+      {
+        "colorName": "red",
+        "colorCode": "#cf3844"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "white",
+        "images": [
+          "/images/boys/outfits/mayoral/372701/white/1.jpg",
+          "/images/boys/outfits/mayoral/372701/white/2.jpg",
+          "/images/boys/outfits/mayoral/372701/white/3.jpg"
+        ]
+      },
+      {
+        "imagesColor": "blue",
+        "images": [
+          "/images/boys/outfits/mayoral/372701/blue/1.jpg",
+          "/images/boys/outfits/mayoral/372701/blue/2.jpg",
+          "/images/boys/outfits/mayoral/372701/blue/3.jpg"
+        ]
+      },
+      {
+        "imagesColor": "red",
+        "images": [
+          "/images/boys/outfits/mayoral/372701/red/1.jpg",
+          "/images/boys/outfits/mayoral/372701/red/2.jpg",
+          "/images/boys/outfits/mayoral/372701/red/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["white", "blue", "red"],
+    "description": "A navy blue polo shirt and beige shorts set for boys by Mayoral, both made in soft cotton. The piqué polo shirt has brown trims, with logo prints on the front and back. The twill chino shorts are patterned with navy blue and brown sail boats, and have useful pockets.",
+    "details": [
+      "Top: 100% cotton piqué (soft, stretchy)",
+      "Drawstring waist on the shorts",
+      "Machine wash (30*C)"
+    ],
+    "category": "outfits",
+    "productType": "tops",
+    "productNumber": 372701
+  },
+  {
+    "gender": "boys",
+    "productName": "Blue Cotton Logo Shorts Set",
+    "brand": "BOSS Kidswear",
+
+    "price": 10190,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "blue",
+        "colorCode": "#2ee0ff"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "blue",
+        "images": [
+          "/images/boys/outfits/boss-kidswear/380728/blue/1.jpg",
+          "/images/boys/outfits/boss-kidswear/380728/blue/2.jpg",
+          "/images/boys/outfits/boss-kidswear/380728/blue/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["blue"],
+    "description": "Blue cotton shorts set for little boys by BOSS Kidswear. The turquoise blue polo shirt is made in soft piqué with a bold white logo print and white trim. The navy blue, soft jersey shorts have an elasticated waistband and a branded label on the side seam.",
+    "details": [
+      "Top: 96% cotton, 4% elastane (soft piqué)",
+      "Shorts: 95% cotton, 5% elastane (soft jersey)",
+      "Machine wash (30*C)"
+    ],
+    "category": "outfits",
+    "productType": "tops",
+    "productNumber": 380728
+  },
+  {
+    "gender": "boys",
+    "productName": "White Shorts set",
+    "brand": "Patachou",
+
+    "price": 29990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "white",
+        "colorCode": "#f5e5e4"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "white",
+        "images": [
+          "/images/boys/outfits/patachou/364574/white/1.jpg",
+          "/images/boys/outfits/patachou/364574/white/2.jpg",
+          "/images/boys/outfits/patachou/364574/white/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["white"],
+    "description": "Casual cotton shorts set for boys by Patachou. The white cotton piqué polo shirt has navy blue striped trims and a ship's wheel embroidered on one side. The matching mid-weight, navy blue cotton shorts have belt loops, turn-ups and a comfortable waistband that is elasticated around the back.",
+    "details": [
+      "Top: 100% soft, stretchy cotton piqué",
+      "Zip fastening on shorts",
+      "Machine wash (30*C)"
+    ],
+    "category": "outfits",
+    "productType": "tops",
+    "productNumber": 364574
+  },
+  {
+    "gender": "boys",
+    "productName": "White & Green Shorts Set",
+    "brand": "Mayoral",
+    "price": 149990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "white",
+        "colorCode": "#f7f7f7"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "white",
+        "images": [
+          "/images/boys/outfits/mayoral/373993/white/1.jpg",
+          "/images/boys/outfits/mayoral/373993/white/2.jpg",
+          "/images/boys/outfits/mayoral/373993/white/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["white"],
+    "description": "Baby boys white and green shorts set by Moncler Enfant. The cotton piqué polo shirt has green ribbed trims and button fastening, with a logo print at the chest. The matching green shorts have white trims and an elasticated waistband.",
+    "details": [
+      "96% cotton, 4% elastane (soft piqué)",
+      "Top: button fastening",
+      "Machine wash (30*C)"
+    ],
+    "category": "outfits",
+    "productType": "tops",
+    "productNumber": 373993
+  },
+  {
+    "gender": "boys",
+    "productName": "Boys Red & White Shorts Set",
+    "brand": "Lapin House",
+
+    "price": 84990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "red",
+        "colorCode": "#9e0e05"
+      },
+      {
+        "colorName": "yellow",
+        "colorCode": "#d9ca43"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "red",
+        "images": [
+          "/images/boys/outfits/lapin-house/365999/red/1.jpg",
+          "/images/boys/outfits/lapin-house/365999/red/2.jpg",
+          "/images/boys/outfits/lapin-house/365999/red/3.jpg"
+        ]
+      },
+      {
+        "imagesColor": "yellow",
+        "images": [
+          "/images/boys/outfits/lapin-house/365999/yellow/1.jpg",
+          "/images/boys/outfits/lapin-house/365999/yellow/2.jpg",
+          "/images/boys/outfits/lapin-house/365999/yellow/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["red", "yellow"],
+    "description": "Boys polo shirt and shorts set by Lapin House. The red polo shirt has a brown and orange bicycle print, with a blue chambray collar. The white shorts are made in lightweight twill, and have an elasticated waistband.",
+    "details": [
+      "Top: 100% soft cotton piqué",
+      "2 piece set",
+      "Machine wash (30*C)"
+    ],
+    "category": "outfits",
+    "productType": "tops",
+    "productNumber": 365999
+  },
+  {
+    "gender": "boys",
+    "productName": "Black Cotton Logo Shorts Set",
+    "brand": "Moncler Enfant",
+
+    "price": 14990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "black",
+        "colorCode": "#0d0d0c"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "black",
+        "images": [
+          "/images/boys/outfits/mayoral/297269/black/1.jpg",
+          "/images/boys/outfits/mayoral/297269/black/2.jpg",
+          "/images/boys/outfits/mayoral/297269/black/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["black"],
+    "description": "Boys black and grey cotton piqué polo shirt and shorts set by luxury French brand Moncler Enfant. The white collared top has a blue, red and white rubber logo patch on the chest. The relaxed fit shorts are elasticated around the waist with side pockets.",
+    "details": [
+      "Top: 100% soft cotton piqué",
+      "2 piece set",
+      "Machine wash (30*C)"
+    ],
+    "category": "outfits",
+    "productType": "tops",
+    "productNumber": 297269
+  },
+  {
+    "gender": "boys",
+    "productName": "Boys Navy Blue 3 Piece Suit",
+    "brand": "Romano Vianni",
+
+    "price": 87990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "blue",
+        "colorCode": "#080730"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "blue",
+        "images": [
+          "/images/boys/suits/romano/115656/blue/1.jpg",
+          "/images/boys/suits/romano/115656/blue/2.jpg",
+          "/images/boys/suits/romano/115656/blue/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["blue"],
+    "description": "A smart and elegant suit by Romano Vianni, made from a smooth fabric in dark french blue. The jacket with faux pockets gives a smart chic look to accompany the trousers and waistcoat. The large age range available makes it perfect for pageboys.",
+    "details": [
+      "Jacket & waistcoat: button fastenings on front",
+      "3 piece set",
+      "Dry clean"
+    ],
+    "category": "suits",
+    "productType": "tops",
+    "productNumber": 115656
+  },
+  {
+    "gender": "boys",
+    "productName": "Black Velvet Trim 3 Piece Suit",
+    "brand": "Romano",
+
+    "price": 114990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "black",
+        "colorCode": "#02010d"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "black",
+        "images": [
+          "/images/boys/suits/romano/258280/black/1.jpg",
+          "/images/boys/suits/romano/258280/black/2.jpg",
+          "/images/boys/suits/romano/258280/black/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["black"],
+    "description": "Boys beautifully tailored, three-piece black suit by Romano, made in a soft viscose blend fabric. The jacket has a velvet shawl collar, trim, and buttons. It is lined with a stunning, red, silky polyester jacquard to match the back of the waistcoat.",
+    "details": [
+      "35% viscose, 65% polyester (soft, mid-weight)",
+      "3 piece set",
+      "Dry clean"
+    ],
+    "category": "suits",
+    "productType": "tops",
+    "productNumber": 258280
+  },
+  {
+    "gender": "boys",
+    "productName": "Navy Blue Satin 3 Piece Suit",
+    "brand": "Romano Vianni",
+
+    "price": 94990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "blue",
+        "colorCode": "#080730"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "blue",
+        "images": [
+          "/images/boys/suits/romano/115657/blue/1.jpg",
+          "/images/boys/suits/romano/115657/blue/2.jpg",
+          "/images/boys/suits/romano/115657/blue/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["blue"],
+    "description": "Boys navy blue 3 piece suit by Romano Next Generation, that includes a smart jacket, waistcoat and trousers. The jacket does up with a single button fastening and has black satin lapels and pocket trims, with two inside pockets.",
+    "details": [
+      "Jacket & waistcoat: button fastenings on front",
+      "3 piece set",
+      "Dry clean"
+    ],
+    "category": "suits",
+    "productType": "tops",
+    "productNumber": 115657
+  },
+  {
+    "gender": "boys",
+    "productName": "Boys Black Velvet 3 Piece Suit",
+    "brand": "Romano",
+
+    "price": 99990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "black",
+        "colorCode": "#02010d"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "black",
+        "images": [
+          "/images/boys/suits/romano/102335/black/1.jpg",
+          "/images/boys/suits/romano/102335/black/2.jpg",
+          "/images/boys/suits/romano/102335/black/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["black"],
+    "description": "Black velvet three piece evening and special occasion suit by Romano. It is beautifully tailored in plush velvet, with satin lapels, covered buttons and and faux pocket square. The trousers have a button and zip fastening, and a part-elasticated waist. ",
+    "details": [
+      "70% polyester, 30% viscose (soft velvet)",
+      "3 piece set",
+      "Dry clean"
+    ],
+    "category": "suits",
+    "productType": "tops",
+    "productNumber": 102335
+  },
+  {
+    "gender": "boys",
+    "productName": "Boys Occasion 3 Piece Suit",
+    "brand": "Romano",
+
+    "price": 99990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "gray",
+        "colorCode": "#28282e"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "gray",
+        "images": [
+          "/images/boys/suits/romano/206143/gray/1.jpg",
+          "/images/boys/suits/romano/206143/gray/2.jpg",
+          "/images/boys/suits/romano/206143/gray/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["gray"],
+    "description": "Special occasion three-piece suit for boys by Romano. The black jacquard jacket has smart satin lapels and is lined with a sumptuous red and purple damask satin. The waistcoat has a matching damask back with an adjustable strap.",
+    "details": [
+      "70% polyester, 30% viscose (soft velvet)",
+      "3 piece set",
+      "Dry clean"
+    ],
+    "category": "suits",
+    "productType": "tops",
+    "productNumber": 206143
+  },
+  {
+    "gender": "boys",
+    "productName": "Boys 5 Piece Black Tuxedo Suit",
+    "brand": "Beau KiD",
+    "price": 41990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "black",
+        "colorCode": "#28282e"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "black",
+        "images": [
+          "/images/boys/suits/beau-kid/300142/black/1.jpg",
+          "/images/boys/suits/beau-kid/300142/black/2.jpg",
+          "/images/boys/suits/beau-kid/300142/black/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["black"],
+    "description": "Boys black, special occasion, five-piece tuxedo by Beau KiD. The jacket and trousers have a satin trim, matching the cummerbund and bow tie. The white polycotton shirt has pin tucks on the front and two sets of button fastenings. ",
+    "details": [
+      "Jacket & trousers: 100% polyester twill",
+      "5 piece set",
+      "Dry clean"
+    ],
+    "category": "suits",
+    "productType": "tops",
+    "productNumber": 300142
+  },
+  {
+    "gender": "boys",
+    "productName": "Beige & Blue 5 Piece Suit",
+    "brand": "Beau KiD",
+    "price": 84990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "beige",
+        "colorCode": "#ebedcc"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "beige",
+        "images": [
+          "/images/boys/suits/beau-kid/366475/beige/1.jpg",
+          "/images/boys/suits/beau-kid/366475/beige/2.jpg",
+          "/images/boys/suits/beau-kid/366475/beige/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["beige"],
+    "description": "Boys beige and blue five-piece tailored suit by Beau Kid. The beige blazer has navy blue trims and front button fastening and comes with a matching bow tie with an adjustable neck strap. Also included is a blue Oxford weave shirt, navy blue chino trousers and buckle fastening belt.",
+    "details": [
+      "Blazer: 65% polyester, 35% viscose (soft feel weave)",
+      "5 piece set",
+      "Dry clean"
+    ],
+    "category": "suits",
+    "productType": "tops",
+    "productNumber": 366475
+  },
+  {
+    "gender": "boys",
+    "productName": "Camel Beige & Navy Suit Set",
+    "brand": "Beau KiD",
+    "price": 99990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "beige",
+        "colorCode": "#ebedcc"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "beige",
+        "images": [
+          "/images/boys/suits/beau-kid/410178/beige/1.jpg",
+          "/images/boys/suits/beau-kid/410178/beige/2.jpg",
+          "/images/boys/suits/beau-kid/410178/beige/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["beige"],
+    "description": "A smart suit set for boys by Beau KiD. The camel beige blazer has a stylish pocket square detail, two front pockets, and a single button fastening. The navy blue trousers have an adjustable waist and come with a removable navy blue faux leather belt. The blue shirt has a button down collar, with navy blue trim down the placket.",
+    "details": [
+      "Blazer & waistcoat: 100% polyester (woven texture)",
+      "6 piece set",
+      "Dry clean"
+    ],
+    "category": "suits",
+    "productType": "tops",
+    "productNumber": 410178
+  },
+  {
+    "gender": "boys",
+    "productName": "Navy Blue & Beige Suit Set",
+    "brand": "Beau KiD",
+    "price": 99990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "blue",
+        "colorCode": "#0f0f42"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "blue",
+        "images": [
+          "/images/boys/suits/beau-kid/410200/blue/1.jpg",
+          "/images/boys/suits/beau-kid/410200/blue/2.jpg",
+          "/images/boys/suits/beau-kid/410200/blue/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["blue"],
+    "description": "A smart suit set for boys by Beau KiD. The navy blue blazer has a stylish pocket square detail, two front pockets, and a single button fastening. The khaki beige trousers have an adjustable waist and come with a removable navy blue faux leather belt. The white shirt has a button down collar, with navy blue trim down the placket.",
+    "details": [
+      "Blazer & waistcoat: 100% polyester (woven texture)",
+      "6 piece set",
+      "Dry clean"
+    ],
+    "category": "suits",
+    "productType": "tops",
+    "productNumber": 410200
+  },
+  {
+    "gender": "boys",
+    "productName": "Blue & White 5 Piece Suit Set",
+    "brand": "Beau KiD",
+    "price": 84990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "blue",
+        "colorCode": "#4571b0"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "blue",
+        "images": [
+          "/images/boys/suits/beau-kid/366478/blue/1.jpg",
+          "/images/boys/suits/beau-kid/366478/blue/2.jpg",
+          "/images/boys/suits/beau-kid/366478/blue/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["blue"],
+    "description": "A smart suit for boys by Beau KiD. The pale blue, mid-weight blazer has a top pocket, two front pockets and navy blue buttons, with a navy blue panel on the cuffs. The navy blue twill trousers have an adjustable waist. ",
+    "details": [
+      "Blazer & waistcoat: 100% polyester (woven texture)",
+      "6 piece set",
+      "Dry clean"
+    ],
+    "category": "suits",
+    "productType": "tops",
+    "productNumber": 366478
+  },
+  {
+    "gender": "boys",
+    "productName": "Black Logo Sock Trainers",
+    "brand": "Moschino Kid-Teen",
+    "price": 194990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "black",
+        "colorCode": "#28282e"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "black",
+        "images": [
+          "/images/boys/shoes/moschino/400243/black/1.jpg",
+          "/images/boys/shoes/moschino/400243/black/2.jpg",
+          "/images/boys/shoes/moschino/400243/black/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["black"],
+    "description": "From Moschino Kid-Teen, black sock trainers with a white logo for girls and boys. Made in stretchy fabric, they have a non-slip rubber outer sole that is shaped like the designer's iconic teddy bear. They simply pull on like a sock.",
+    "details": [
+      "Stretch fabric upper",
+      "Leather inner sole",
+      "Non-slip, rubber outer sole",
+      "Pull on",
+      "Made in Italy"
+    ],
+    "category": "shoes",
+    "productType": "tops",
+    "productNumber": 400243
+  },
+  {
+    "gender": "boys",
+    "productName": "Leather High-Top Logo Trainers",
+    "brand": "Moschino Baby",
+    "price": 194990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "black",
+        "colorCode": "#28282e"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "black",
+        "images": [
+          "/images/boys/shoes/moschino/400236/black/1.jpg",
+          "/images/boys/shoes/moschino/400236/black/2.jpg",
+          "/images/boys/shoes/moschino/400236/black/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["black"],
+    "description": "Younger boys and girls black high-top trainers by Moschino Baby. Made and lined in soft leather, they have the designer's signature Teddy Bear logo appliqués and white logo print on the sides. The trainers fasten with zips and have black and white logo branded laces.",
+    "details": [
+      "Leather upper, lining & insole",
+      "Non-slip rubber outsole",
+      "Lace-up & zip fastenings",
+      "Suitable for boys & girls",
+      "Made in Italy"
+    ],
+    "category": "shoes",
+    "productType": "tops",
+    "productNumber": 400236
+  },
+  {
+    "gender": "boys",
+    "productName": "Black Leather Logo Trainers",
+    "brand": "Moschino Baby",
+    "price": 169990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "black",
+        "colorCode": "#28282e"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "black",
+        "images": [
+          "/images/boys/shoes/moschino/400245/black/1.jpg",
+          "/images/boys/shoes/moschino/400245/black/2.jpg",
+          "/images/boys/shoes/moschino/400245/black/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["black"],
+    "description": "Black trainers for younger boys and girls by Moschino Baby, with a white logo print. They are made and lined in soft leather, with a non-slip rubber sole and velcro fastening straps.",
+    "details": [
+      "Leather upper, lining & insole",
+      "Non-slip rubber sole",
+      "Velcro fastening",
+      "Suitable for boys & girls",
+      "Made in Italy"
+    ],
+    "category": "shoes",
+    "productType": "tops",
+    "productNumber": 400245
+  },
+  {
+    "gender": "boys",
+    "productName": "Silver Leather Teddy Trainers",
+    "brand": "Moschino Baby",
+    "price": 189990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "white",
+        "colorCode": "#b6babf"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "white",
+        "images": [
+          "/images/boys/shoes/moschino/400263/white/1.jpg",
+          "/images/boys/shoes/moschino/400263/white/2.jpg",
+          "/images/boys/shoes/moschino/400263/white/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["white"],
+    "description": "Shiny silver lace-up trainers for boys and girls by Moschino Baby. They are made and lined in soft leather, with a lightly cushioned insole and non-slip rubber sole. There is a black logo print on the heel and a cute embroidered Teddy logo patch in glittery gold attached to the front laces.",
+    "details": [
+      "Soft leather upper & lining",
+      "Lightly cushioned insole",
+      "Rubber outsole",
+      "Lace-up",
+      "Made in Italy"
+    ],
+    "category": "shoes",
+    "productType": "tops",
+    "productNumber": 400263
+  },
+  {
+    "gender": "boys",
+    "productName": "Gold Leather Logo Trainers",
+    "brand": "Moschino Baby",
+    "price": 179990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "gold",
+        "colorCode": "#fcf568"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "gold",
+        "images": [
+          "/images/boys/shoes/moschino/400258/gold/1.jpg",
+          "/images/boys/shoes/moschino/400258/gold/2.jpg",
+          "/images/boys/shoes/moschino/400258/gold/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["gold"],
+    "description": "Shiny gold lace-up trainers for younger boys and girls by Moschino Baby. They have a black logo print on the tongue and the brand's Moschino Teddy Bear appliqué in gold embroidery on the heel. Made and lined in soft leather, the trainers have a lightly cushioned insole and non-slip rubber sole.",
+    "details": [
+      "Soft leather upper & lining",
+      "Non-slip rubber sole",
+      "Suitable for boys & girls",
+      "Lace-up",
+      "Made in Italy"
+    ],
+    "category": "shoes",
+    "productType": "tops",
+    "productNumber": 400258
+  },
+  {
+    "gender": "boys",
+    "productName": "Beige Leather Ace Trainers",
+    "brand": "Gucci",
+    "price": 229990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "beige",
+        "colorCode": "#ebedcc"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "beige",
+        "images": [
+          "/images/boys/shoes/gucci/378683/beige/1.jpg",
+          "/images/boys/shoes/gucci/378683/beige/2.jpg",
+          "/images/boys/shoes/gucci/378683/beige/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["beige"],
+    "description": "Beige trainers for boys and girls by luxury Italian brand Gucci. Made in soft and supple leather, they have blue logo branded heels, with a red leather interlocking G logo at the sides. Fastening with laces, they are fully lined in leather, with leather insoles and have a non-slip rubber sole.",
+    "details": [
+      "Soft leather upper & lining",
+      "Non-slip rubber sole",
+      "Suitable for boys & girls",
+      "Lace-up",
+      "Made in Italy"
+    ],
+    "category": "shoes",
+    "productType": "tops",
+    "productNumber": 378683
+  },
+  {
+    "gender": "boys",
+    "productName": "White Leather & Web Trainers",
+    "brand": "Gucci",
+    "price": 199990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "white",
+        "colorCode": "#fafaf7"
+      },
+      {
+        "colorName": "black",
+        "colorCode": "#0d0d0c"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "white",
+        "images": [
+          "/images/boys/shoes/gucci/307844/white/1.jpg",
+          "/images/boys/shoes/gucci/307844/white/2.jpg",
+          "/images/boys/shoes/gucci/307844/white/3.jpg"
+        ]
+      },
+      {
+        "imagesColor": "black",
+        "images": [
+          "/images/boys/shoes/gucci/307844/black/1.jpg",
+          "/images/boys/shoes/gucci/307844/black/2.jpg",
+          "/images/boys/shoes/gucci/307844/black/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["white", "black"],
+    "description": "Mini-me white leather sneakers from Gucci, suitable for boys and girls. Made in soft and supple leather, they have metallic green heels, with a logo print and green and red web on the sides. Fastening with flat laces, they are fully lined in leather and have a non-slip rubber sole.",
+    "details": [
+      "Mini-me",
+      "Leather uppers (smooth)",
+      "Wipe clean",
+      "Lace-up",
+      "Made in Italy"
+    ],
+    "category": "shoes",
+    "productType": "tops",
+    "productNumber": 307844
+  },
+  {
+    "gender": "boys",
+    "productName": "White Logo Trainers",
+    "brand": "Gucci",
+    "price": 199990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "white",
+        "colorCode": "#fafaf7"
+      },
+      {
+        "colorName": "black",
+        "colorCode": "#0d0d0c"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "white",
+        "images": [
+          "/images/boys/shoes/gucci/307826/white/1.jpg",
+          "/images/boys/shoes/gucci/307826/white/2.jpg",
+          "/images/boys/shoes/gucci/307826/white/3.jpg"
+        ]
+      },
+      {
+        "imagesColor": "black",
+        "images": [
+          "/images/boys/shoes/gucci/307826/black/1.jpg",
+          "/images/boys/shoes/gucci/307826/black/2.jpg",
+          "/images/boys/shoes/gucci/307826/black/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["white", "black"],
+    "description": "Luxuriously soft, Mini-me white leather 'Ace' trainers from Gucci. They have metallic red trim and an elasticated black and red logo band across the lace-up fastening. Lined in super soft leather, with a leather inner sole and non-slip rubber outer sole.",
+    "details": [
+      "Mini-me",
+      "Super soft leather & fabric outer shoe",
+      "Super soft leather lining & inner sole",
+      "Lace-up",
+      "Made in Italy"
+    ],
+    "category": "shoes",
+    "productType": "tops",
+    "productNumber": 307826
+  },
+  {
+    "gender": "boys",
+    "productName": "Black Leather GG Logo Trainers",
+    "brand": "Gucci",
+    "price": 229990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "black",
+        "colorCode": "#0d0d0c"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "black",
+        "images": [
+          "/images/boys/shoes/gucci/355499/black/1.jpg",
+          "/images/boys/shoes/gucci/355499/black/2.jpg",
+          "/images/boys/shoes/gucci/355499/black/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["black"],
+    "description": "Black Ace leather trainers for girls and boys from luxury Italian brand Gucci. They have an embossed GG logo pattern, with the signature green and red Web on the sides and shiny green and white logo printed heels. Lined in soft leather with lightly padded insoles and white rubber non-slip soles, they fasten with double velcro straps.",
+    "details": [
+      "Soft leather uppers",
+      "Soft leather lining",
+      "Slightly padded leather inner sole",
+      "Non-slip rubber outer sole",
+      "Suitable for boys & girls",
+      "Made in Italy"
+    ],
+    "category": "shoes",
+    "productType": "tops",
+    "productNumber": 355499
+  },
+  {
+    "gender": "boys",
+    "productName": "Beige Screener Trainers",
+    "brand": "Gucci",
+    "price": 299990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "beige",
+        "colorCode": "#ebedcc"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "beige",
+        "images": [
+          "/images/boys/shoes/gucci/378202/beige/1.jpg",
+          "/images/boys/shoes/gucci/378202/beige/2.jpg",
+          "/images/boys/shoes/gucci/378202/beige/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["beige"],
+    "description": "Mini-me Screener sneakers for younger girls and boys by luxury Italian brand, Gucci. Made in beige GG canvas and soft leather, they have been treated for a vintage, distressed look.",
+    "details": [
+      "Textile lining",
+      "GG canvas uppers & leather trim",
+      "Non-slip rubber outer sole",
+      "Suitable for boys & girls",
+      "Made in Italy"
+    ],
+    "category": "shoes",
+    "productType": "tops",
+    "productNumber": 378202
+  },
+  {
+    "gender": "girls",
+    "productName": "Neon Pink Sporty T-Shirt",
+    "brand": "Mayoral",
+    "price": 9990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "pink",
+        "colorCode": "#fa98dd"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "pink",
+        "images": [
+          "/images/girls/activewear/mayoral/372846/pink/1.jpg",
+          "/images/girls/activewear/mayoral/372846/pink/2.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["pink"],
+    "description": "In a vibrant shade of neon pink, a lightweight jersey T-shirt for girls by Mayoral. Soft and stretchy, this sporty style top has a metallic silver active print on the front and back.",
+    "details": ["100% soft & stretchy polyester jersey", "Machine wash (30*C)"],
+    "category": "activewear",
+    "productType": "tops",
+    "productNumber": 372846
+  },
+  {
+    "gender": "girls",
+    "productName": "Girls White Cotton T-Shirt",
+    "brand": "Mayoral",
+    "price": 9990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "white",
+        "colorCode": "#fffcff"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "white",
+        "images": [
+          "/images/girls/activewear/mayoral/372003/white/1.jpg",
+          "/images/girls/activewear/mayoral/372003/white/2.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["white"],
+    "description": "White T-shirt for girls by Mayoral, made in soft and stretchy sustainable cotton jersey. It has a pink sequin square on the front with holographic sequins spelling the words 'BLAH BLAH BLAH'. In a loose fitting style, it has raw edges on the hem, which is longer at the back than the front.",
+
+    "details": [
+      "100% soft & stretchy polyester jersey",
+      "Machine wash (30*C)",
+      "Raw edged hem",
+      "Eco-Friendly Fabric"
+    ],
+    "category": "activewear",
+    "productType": "tops",
+    "productNumber": 372003
+  },
+  {
+    "gender": "girls",
+    "productName": "Girls White T-Shirt",
+    "brand": "Mayoral",
+    "price": 10990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "white",
+        "colorCode": "#fffcff"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "white",
+        "images": [
+          "/images/girls/activewear/mayoral/372032/white/1.jpg",
+          "/images/girls/activewear/mayoral/372032/white/2.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["white"],
+    "description": "Printed with a fun red and black selfie design, a white sustainable cotton T-shirt for girls by Mayoral. Made from soft and stretchy jersey, this oversized top has silver stud trims on the short sleeves.",
+
+    "details": [
+      "95% sustainable cotton, 5% elastane (soft, stretchy, lightweight jersey)",
+      "Machine wash (30*C)",
+      "Oversized fit",
+      "Eco-Friendly Fabric"
+    ],
+    "category": "activewear",
+    "productType": "tops",
+    "productNumber": 372032
+  },
+  {
+    "gender": "girls",
+    "productName": "Girls Pink Cotton T-Shirt",
+    "brand": "Mayoral",
+    "price": 7990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "pink",
+        "colorCode": "#fa98dd"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "pink",
+        "images": [
+          "/images/girls/activewear/mayoral/371785/pink/1.jpg",
+          "/images/girls/activewear/mayoral/371785/pink/2.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["pink"],
+    "description": "In a fun shade of bright pink, this T-shirt for girls is by Mayoral. Made in soft cotton jersey, it has a green and pink girly design on the front.",
+    "details": ["100% soft & stretchy polyester jersey", "Machine wash (30*C)"],
+    "category": "activewear",
+    "productType": "tops",
+    "productNumber": 371785
+  },
+  {
+    "gender": "girls",
+    "productName": "Girls Yellow Cotton T-Shirt",
+    "brand": "Mayoral",
+    "price": 7990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "pink",
+        "colorCode": "#fa98dd"
+      },
+      {
+        "colorName": "yellow",
+        "colorCode": "#fff28c"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "pink",
+        "images": [
+          "/images/girls/activewear/mayoral/372220/pink/1.jpg",
+          "/images/girls/activewear/mayoral/372220/pink/2.jpg",
+          "/images/girls/activewear/mayoral/372220/pink/3.jpg"
+        ]
+      },
+      {
+        "imagesColor": "yellow",
+        "images": [
+          "/images/girls/activewear/mayoral/372220/yellow/1.jpg",
+          "/images/girls/activewear/mayoral/372220/yellow/2.jpg",
+          "/images/girls/activewear/mayoral/372220/yellow/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["pink", "yellow"],
+    "description": "Soft and stretchy yellow T-shirt for little girls by Mayoral, with a fun girl print on the front. Made from sustainable cotton, it has puffed sleeves and back popper fastenings.",
+    "details": [
+      "95% cotton jersey, 5% elastane (soft & stretchy)",
+      "Machine wash (30*C)",
+      "Back popper fastenings",
+      "Sustainable cotton"
+    ],
+    "category": "activewear",
+    "productType": "tops",
+    "productNumber": 372220
+  },
+  {
+    "gender": "girls",
+    "productName": "Girls Blue Sports T-Shirt",
+    "brand": "Polo Ralph Lauren",
+    "price": 12990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "blue",
+        "colorCode": "#1623b5"
+      },
+      {
+        "colorName": "pink",
+        "colorCode": "#fa98dd"
+      },
+      {
+        "colorName": "yellow",
+        "colorCode": "#fff28c"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "blue",
+        "images": [
+          "/images/girls/activewear/polo/382704/blue/1.jpg",
+          "/images/girls/activewear/polo/382704/blue/2.jpg"
+        ]
+      },
+      {
+        "imagesColor": "pink",
+        "images": [
+          "/images/girls/activewear/polo/382704/pink/1.jpg",
+          "/images/girls/activewear/polo/382704/pink/2.jpg"
+        ]
+      },
+      {
+        "imagesColor": "yellow",
+        "images": [
+          "/images/girls/activewear/polo/382704/yellow/1.jpg",
+          "/images/girls/activewear/polo/382704/yellow/2.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["blue", "pink", "yellow"],
+    "description": "Girls blue sports T-shirt by Polo Ralph Lauren with a yellow and red logo print. Made from soft technical jersey, it has short sleeves and a lightly ribbed neckline.",
+    "details": [
+      "100% soft, stretchy, polyester jersey",
+      "Machine wash (30*C)",
+      "Not available for shipping to: United States"
+    ],
+    "category": "activewear",
+    "productType": "tops",
+    "productNumber": 382704
+  },
+  {
+    "gender": "girls",
+    "productName": "Girls Blue Cotton Logo T-Shirt",
+    "brand": "Polo Ralph Lauren",
+    "price": 21990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "black",
+        "colorCode": "#01020d"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "black",
+        "images": [
+          "/images/girls/activewear/polo/345629/black/1.jpg",
+          "/images/girls/activewear/polo/345629/black/2.jpg",
+          "/images/girls/activewear/polo/345629/black/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["black"],
+    "description": "Girls navy blue T-shirt by Polo Ralph Lauren, inspired by the adult collection. It is made in soft cotton jersey and has a white Polo logo print on the front.",
+    "details": [
+      "100% soft, stretchy, polyester jersey",
+      "Machine wash (30*C)",
+      "Not available for shipping to: United States"
+    ],
+    "category": "activewear",
+    "productType": "tops",
+    "productNumber": 345629
+  },
+  {
+    "gender": "girls",
+    "productName": "Red Cotton Logo T-Shirt",
+    "brand": "Polo Ralph Lauren",
+    "price": 19990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "red",
+        "colorCode": "#ff3347"
+      },
+      {
+        "colorName": "pink",
+        "colorCode": "#eb2fe4"
+      },
+      {
+        "colorName": "white",
+        "colorCode": "#f7f5f7"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "red",
+        "images": [
+          "/images/girls/activewear/polo/383353/red/1.jpg",
+          "/images/girls/activewear/polo/383353/red/2.jpg"
+        ]
+      },
+      {
+        "imagesColor": "pink",
+        "images": [
+          "/images/girls/activewear/polo/383353/pink/1.jpg",
+          "/images/girls/activewear/polo/383353/pink/2.jpg"
+        ]
+      },
+      {
+        "imagesColor": "white",
+        "images": [
+          "/images/girls/activewear/polo/383353/white/1.jpg",
+          "/images/girls/activewear/polo/383353/white/2.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["red", "pink", "white"],
+    "description": "Girls red cotton jersey T-shirt by Polo Ralph Lauren. Soft and comfortable, it has the signature pony logo embroidered in navy blue on the chest.",
+    "details": [
+      "100% soft, stretchy, polyester jersey",
+      "Machine wash (30*C)",
+      "Not available for shipping to: United States"
+    ],
+    "category": "activewear",
+    "productType": "tops",
+    "productNumber": 383353
+  },
+  {
+    "gender": "girls",
+    "productName": "Girls Pink T-Shirt",
+    "brand": "Polo Ralph Lauren",
+    "price": 18990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "pink",
+        "colorCode": "#e388c9"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "pink",
+        "images": [
+          "/images/girls/activewear/polo/382825/pink/1.jpg",
+          "/images/girls/activewear/polo/382825/pink/2.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["pink"],
+    "description": "Peach pink T-shirt for girls by Polo Ralph Lauren, made in soft cotton jersey. It has the brand's signature small pony logo embroidered in aqua blue on the chest.",
+    "details": [
+      "100% soft, stretchy, polyester jersey",
+      "Machine wash (30*C)",
+      "Not available for shipping to: United States"
+    ],
+    "category": "activewear",
+    "productType": "tops",
+    "productNumber": 382825
+  },
+  {
+    "gender": "girls",
+    "productName": "Girls Navy Blue Cotton T-Shirt",
+    "brand": "Polo Ralph Lauren",
+    "price": 18990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "black",
+        "colorCode": "#0d0c0c"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "black",
+        "images": [
+          "/images/girls/activewear/polo/357664/black/1.jpg",
+          "/images/girls/activewear/polo/357664/black/2.jpg",
+          "/images/girls/activewear/polo/357664/black/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["black"],
+    "description": "Girls navy blue T-shirt from Polo Ralph Lauren, made in super soft and stretchy cotton and modal blend jersey. It has the designer's iconic small Pony logo embroidered on the chest in pink.",
+    "details": [
+      "52% cotton, 48% modal (super soft & stretchy)",
+      "Machine wash (30*C)",
+      "Not available for shipping to: United States"
+    ],
+    "category": "activewear",
+    "productType": "tops",
+    "productNumber": 357664
+  },
+  {
+    "gender": "girls",
+    "productName": "Girls Pink Hooded Coat",
+    "brand": "THE MARC JACOBS",
+
+    "price": 112990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "pink",
+        "colorCode": "#fa91dc"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "pink",
+        "images": [
+          "/images/girls/jackets/the-marc-jacobs/408494/pink/1.jpg",
+          "/images/girls/jackets/the-marc-jacobs/408494/pink/2.jpg",
+          "/images/girls/jackets/the-marc-jacobs/408494/pink/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["pink"],
+    "description": "Pink hooded coat for girls by THE MARC JACOBS, made in silky, lightweight polyester, with a pretty fondant icing print, inspired by the adult collection. It has a drawstring waist, two fleece lined front pockets and a pink zip fastening. There is a small pink embroidered logo by the hem and it is lined in soft, fuchsia pink, polar fleece.",
+    "details": [
+      "100% polyester (silky & lightweight)",
+      "Machine wash (30*C)",
+      "Lining: 100% polyester (soft fleece)",
+      "Drawstring waist",
+      "Showerproof"
+    ],
+    "category": "jackets",
+    "productType": "tops",
+    "productNumber": 408494
+  },
+  {
+    "gender": "girls",
+    "productName": "Girls Pink Puffer Jacket",
+    "brand": "Polo Ralph Lauren",
+
+    "price": 129990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "pink",
+        "colorCode": "#fa91dc"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "pink",
+        "images": [
+          "/images/girls/jackets/polo/396237/pink/1.jpg",
+          "/images/girls/jackets/polo/396237/pink/2.jpg",
+          "/images/girls/jackets/polo/396237/pink/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["pink"],
+    "description": "Pink puffer jacket for girls by Polo Ralph Lauren, made in recycled nylon. This lightweight jacket is water repellent and padded with Thermoplume® recycled polyester. It has front zip fastening pockets, and the brand's signature pony logo embroidered in navy blue on the chest. It fastens with a zip and can be packed away into one of the pockets.",
+    "details": [
+      "100% recycled nylon (silky & smooth)",
+      "Machine wash (30*C)",
+      "Thermoplume® padding",
+      "Drawstring waist",
+      "Recycled"
+    ],
+    "category": "jackets",
+    "productType": "tops",
+    "productNumber": 396237
+  },
+  {
+    "gender": "girls",
+    "productName": "Girls Pink Down Jacket",
+    "brand": "Moncler Enfant",
+
+    "price": 324990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "pink",
+        "colorCode": "#fa91dc"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "pink",
+        "images": [
+          "/images/girls/jackets/moncler/373603/pink/1.jpg",
+          "/images/girls/jackets/moncler/373603/pink/2.jpg",
+          "/images/girls/jackets/moncler/373603/pink/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["pink"],
+    "description": "Pink puffer jacket by luxury French designer Moncler Enfant. Padded with warm down, it has grosgrain ribbon logo taping between the zip detailing on the front. The brand's iconic logo badge is on one arm.",
+    "details": [
+      "100% soft, lightweight polyamide",
+      "Lining: 100% soft, lightweight polyamide",
+      "Padding: 90% down, 10% feathers",
+      "Hand wash with care / do not soak",
+      "Zip fastening on front"
+    ],
+    "category": "jackets",
+    "productType": "tops",
+    "productNumber": 373603
+  },
+  {
+    "gender": "girls",
+    "productName": "Ivory Down Logo Puffer Jacket",
+    "brand": "Moncler Enfant",
+
+    "price": 399990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "white",
+        "colorCode": "#fcf5fa"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "white",
+        "images": [
+          "/images/girls/jackets/moncler/350266/white/1.jpg",
+          "/images/girls/jackets/moncler/350266/white/2.jpg",
+          "/images/girls/jackets/moncler/350266/white/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["white"],
+    "description": "Girls luxury down-filled, ivory puffer jacket by Moncler Enfant, with a detachable hood. This soft and shiny zip-up jacket is water repellent and has a pink trim along the sleeves, printed with white logo lettering.",
+    "details": [
+      "100% polyamide (silky soft, shiny)",
+      "Lining: 100% soft, lightweight polyamide",
+      "Padding: 90% down, 10% feathers",
+      "Hand wash with care / do not soak",
+      "Zip fastening on front"
+    ],
+    "category": "jackets",
+    "productType": "tops",
+    "productNumber": 350266
+  },
+  {
+    "gender": "girls",
+    "productName": "Black Down Puffer Coat",
+    "brand": "Moncler Enfant",
+
+    "price": 599990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "black",
+        "colorCode": "#0f0f0f"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "black",
+        "images": [
+          "/images/girls/jackets/moncler/350198/black/1.jpg",
+          "/images/girls/jackets/moncler/350198/black/2.jpg",
+          "/images/girls/jackets/moncler/350198/black/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["black"],
+    "description": "Girls black down filled coat by luxury brand Moncler Enfant. Made in soft and silky, water repellent nylon, it has a detachable hood with a bright pink lining and a removable fur trim. There are black trims along the sleeves, printed with pink logo lettering, pink and black ribbed cuffs and an adjustable inner drawstring on the waist.",
+    "details": [
+      "100% polyamide (silky, shiny)",
+      "Padding: 90% down, 10% feather (mid-weight)",
+      "Detachable fur trim",
+      "Machine wash (30*C)",
+      "Water repellent"
+    ],
+    "category": "jackets",
+    "productType": "tops",
+    "productNumber": 350198
+  },
+  {
+    "gender": "girls",
+    "productName": "Pink Down Padded Puffer Coat",
+    "brand": "Emporio Armani",
+
+    "price": 229990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "pink",
+        "colorCode": "#ff78a5"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "pink",
+        "images": [
+          "/images/girls/jackets/armani/398097/pink/1.jpg",
+          "/images/girls/jackets/armani/398097/pink/2.jpg",
+          "/images/girls/jackets/armani/398097/pink/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["pink"],
+    "description": "Pale pink puffer coat for little girls, by Emporio Armani. Padded with luxurious down, it has a useful hood and is lined with cotton jersey for comfort.",
+    "details": [
+      "100% polyamide (soft & silky)",
+      "Padding: 80% down, 20% feather (lightly padded)",
+      "Lining: 100% cotton (soft jersey)",
+      "Machine wash (30*C)",
+      "Water repellent"
+    ],
+    "category": "jackets",
+    "productType": "tops",
+    "productNumber": 398097
+  },
+  {
+    "gender": "girls",
+    "productName": "Girls Blue Down Padded Coat",
+    "brand": "Moncler Enfant",
+
+    "price": 614990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "black",
+        "colorCode": "#141414"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "black",
+        "images": [
+          "/images/girls/jackets/moncler/412153/black/1.jpg",
+          "/images/girls/jackets/moncler/412153/black/2.jpg",
+          "/images/girls/jackets/moncler/412153/black/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["black"],
+    "description": "Girls navy blue zip-up puffer coat from luxury brand Moncler Enfant. This warm but lightweight coat is made in water repellent nylon, with soft down padding. It has a removable hood and fur trim, with the iconic logo patch on the sleeve.",
+    "details": [
+      "Outer & lining: 100% polyamide",
+      "Padding: 90% down, 10% feather",
+      "Removable, popper fastening hood",
+      "Machine wash (30*C)",
+      "Water repellent"
+    ],
+    "category": "jackets",
+    "productType": "tops",
+    "productNumber": 412153
+  },
+  {
+    "gender": "girls",
+    "productName": "Dark Green Down Puffer Coat",
+    "brand": "Moncler Enfant",
+
+    "price": 464990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "black",
+        "colorCode": "#121412"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "black",
+        "images": [
+          "/images/girls/jackets/moncler/350578/black/1.jpg",
+          "/images/girls/jackets/moncler/350578/black/2.jpg",
+          "/images/girls/jackets/moncler/350578/black/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["black"],
+    "description": "Girls dark green, Mini-me puffer coat from luxury designer Moncler Enfant. Made in silky soft, water resistant nylon, it has warm down padding and a removable hood. The elasticated belt is removable and there is an inner drawstring to adjust the waist. The brand's iconic logo patch in on one sleeve.",
+    "details": [
+      "Mini-me",
+      "Outer & lining: 100% silky soft polyamide nylon",
+      "Front zip fastening",
+      "Machine wash (30*C)",
+      "Water repellent"
+    ],
+    "category": "jackets",
+    "productType": "tops",
+    "productNumber": 350578
+  },
+  {
+    "gender": "girls",
+    "productName": "Girls Ivory Down Padded Coat",
+    "brand": "Moncler Enfant",
+
+    "price": 409990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "white",
+        "colorCode": "#f5fcf5"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "white",
+        "images": [
+          "/images/girls/jackets/moncler/350712/white/1.jpg",
+          "/images/girls/jackets/moncler/350712/white/2.jpg",
+          "/images/girls/jackets/moncler/350712/white/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["white"],
+    "description": "Girls ivory zip-up puffer coat from luxury designer Moncler Enfant. Made in silky, water repellent nylon, this lightweight coat has soft down padding. The hood is detachable and there is a logo patch pocket on one sleeve. The coat has stylish black trim with matching zip fastenings on the front and hand pockets.",
+    "details": [
+      "100% silky-smooth polyamide",
+      "Lining: 100% silky-smooth polyamide",
+      "Front zip fastening",
+      "Machine wash (30*C)",
+      "Water repellent"
+    ],
+    "category": "jackets",
+    "productType": "tops",
+    "productNumber": 350712
+  },
+  {
+    "gender": "girls",
+    "productName": "Red Down Padded Puffer Coat",
+    "brand": "Moncler Enfant",
+
+    "price": 549990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "red",
+        "colorCode": "#a1181a"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "red",
+        "images": [
+          "/images/girls/jackets/moncler/266508/red/1.jpg",
+          "/images/girls/jackets/moncler/266508/red/2.jpg",
+          "/images/girls/jackets/moncler/266508/red/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["red"],
+    "description": "Girls burgundy red puffer coat by luxury brand Moncler Enfant. Padded with warm down, it is made in silky polyamide with a bright pink lining. The removable hood has a detachable pink fur trim and the elasticated belt has a silver metal logo clasp.",
+    "details": [
+      "100% soft polyamide silk",
+      "Lining: 100% soft polyamide silk",
+      "Fur trim on hood",
+      "Machine wash (30*C)",
+      "Removable belt"
+    ],
+    "category": "jackets",
+    "productType": "tops",
+    "productNumber": 266508
+  },
+  {
+    "gender": "girls",
+    "productName": "Black Cotton & Lace Dress",
+    "brand": "Gucci",
+
+    "price": 839990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "black",
+        "colorCode": "#050505"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "black",
+        "images": [
+          "/images/girls/dresses/gucci/355523/black/1.jpg",
+          "/images/girls/dresses/gucci/355523/black/2.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["black"],
+    "description": "Girls beautifully soft black dress by luxury Italian brand Gucci, made in smooth cotton. It is delicately embroidered with the iconic bee motifs and has black cotton lace inserts. There is a small ivory rounded collar and a comfortable cotton lining.",
+    "details": [
+      "100% soft, smooth cotton",
+      "Lining: 100% soft, lightweight cotton",
+      "Hand wash with care / do not soak",
+      "Branded button fastenings on the back",
+      "Made in Italy"
+    ],
+    "category": "dresses",
+    "productType": "tops",
+    "productNumber": 355523
+  },
+  {
+    "gender": "girls",
+    "productName": "Navy Blue Cotton Logo Dress",
+    "brand": "Gucci",
+
+    "price": 259990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "blue",
+        "colorCode": "#050412"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "blue",
+        "images": [
+          "/images/girls/dresses/gucci/378530/blue/1.jpg",
+          "/images/girls/dresses/gucci/378530/blue/2.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["blue"],
+    "description": "Navy blue cotton jersey dress for girls by luxury Italian designer Gucci, with a red and green Interlocking G embroidered logo. It has a ribbed collar trimmed with House Web and a pleated skirt on the front. There is a concealed zip fastening on the back.",
+    "details": [
+      "100% soft cotton sweatshirt jersey",
+      "Concealed zip fastening on back of dress",
+      "Hand wash with care / do not soak",
+      "Knee length",
+      "Made in Italy"
+    ],
+    "category": "dresses",
+    "productType": "tops",
+    "productNumber": 378530
+  },
+  {
+    "gender": "girls",
+    "productName": "Red Cotton GG Logo Dress",
+    "brand": "Gucci",
+
+    "price": 449990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "red",
+        "colorCode": "#c7081b"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "red",
+        "images": [
+          "/images/girls/dresses/gucci/378628/red/1.jpg",
+          "/images/girls/dresses/gucci/378628/red/2.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["red"],
+    "description": "Girls stylish knitted cotton jersey dress by Gucci, with a white GG logo floral pattern. It has a white cotton collar with a black grosgrain ribbon bow trimmed with diamanté. There are decorative buttons covered with black satin, and a pleated hem trimmed with a bow.",
+    "details": [
+      "100% cotton (knitted jersey)",
+      "Concealed back zip fastening",
+      "Dry clean",
+      "Knee length",
+      "Made in Italy"
+    ],
+    "category": "dresses",
+    "productType": "tops",
+    "productNumber": 378628
+  },
+  {
+    "gender": "girls",
+    "productName": "Ivory GG Embroidery Dress",
+    "brand": "Gucci",
+
+    "price": 969990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "pink",
+        "colorCode": "#fcc7fb"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "pink",
+        "images": [
+          "/images/girls/dresses/gucci/378455/pink/1.jpg",
+          "/images/girls/dresses/gucci/378455/pink/2.jpg",
+          "/images/girls/dresses/gucci/378455/pink/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["pink"],
+    "description": "A beautiful ivory dress by luxury brand Gucci, made in tulle with GG Monogram embroidery. The collar, sleeves and hem have colourful embroidered flowers, and there are decorative buttons on the front. The dress is lined in soft cotton, and it fastens with a zip on the back.",
+    "details": [
+      "Outer fabric: 100% polyester",
+      "Lining: 100% cotton (lightwieght)",
+      "Hand wash with care / do not soak",
+      "Knee length",
+      "Made in Italy"
+    ],
+    "category": "dresses",
+    "productType": "tops",
+    "productNumber": 378455
+  },
+  {
+    "gender": "girls",
+    "productName": "Ivory Cotton Logo Dress",
+    "brand": "Gucci",
+
+    "price": 519990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "pink",
+        "colorCode": "#ffdefe"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "pink",
+        "images": [
+          "/images/girls/dresses/gucci/378452/white/1.jpg",
+          "/images/girls/dresses/gucci/378452/white/2.jpg",
+          "/images/girls/dresses/gucci/378452/white/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["pink"],
+    "description": "Ivory dress for younger girls by luxury Italian designer, Gucci. Made in soft, lightweight cotton with a comfortable lining, there are blue Interlocking G logos and polka dots embroidered all over with a pretty ruffle trim and two front pockets.",
+    "details": [
+      "95% cotton, 5% polyester ",
+      "Lining: 100% soft cotton poplin",
+      "Dry clean",
+      "Knee length",
+      "Made in Italy"
+    ],
+    "category": "dresses",
+    "productType": "tops",
+    "productNumber": 378452
+  },
+  {
+    "gender": "girls",
+    "productName": "Blue Knitted Viscose Dress",
+    "brand": "Emporio Armani",
+
+    "price": 519990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "black",
+        "colorCode": "#0d0c0d"
+      },
+      {
+        "colorName": "blue",
+        "colorCode": "#3411bf"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "black",
+        "images": [
+          "/images/girls/dresses/armani/398086/black/1.jpg",
+          "/images/girls/dresses/armani/398086/black/2.jpg",
+          "/images/girls/dresses/armani/398086/black/3.jpg"
+        ]
+      },
+      {
+        "imagesColor": "blue",
+        "images": [
+          "/images/girls/dresses/armani/398086/blue/1.jpg",
+          "/images/girls/dresses/armani/398086/blue/2.jpg",
+          "/images/girls/dresses/armani/398086/blue/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["black", "blue"],
+    "description": "Smart navy blue dress for girls by Emporio Armani, finely knitted in a soft and stretchy viscose blend. The skirt has stitched vertical stripes in black, creating the illusion of pleats.",
+    "details": [
+      "69% viscose, 31% polyester",
+      "Hand wash with care / do not soak",
+      "Knee length"
+    ],
+    "category": "dresses",
+    "productType": "tops",
+    "productNumber": 398086
+  },
+  {
+    "gender": "girls",
+    "productName": "Navy Blue Pinafore Dress",
+    "brand": "Emporio Armani",
+
+    "price": 17990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "black",
+        "colorCode": "#0d0c0d"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "black",
+        "images": [
+          "/images/girls/dresses/armani/398076/black/1.jpg",
+          "/images/girls/dresses/armani/398076/black/2.jpg",
+          "/images/girls/dresses/armani/398076/black/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["black"],
+    "description": "A classic navy blue pinafore dress for girls by Emporio Armani. It is made in comfortable cotton blend jersey with a zip fastening on the back. There are front button-fastening pockets concealed beneath pleated inserts, with the designer's logo tab above.",
+    "details": [
+      "76% cotton, 18% polyester, 6% elastane",
+      "Machine wash (30*C)",
+      "Knee length"
+    ],
+    "category": "dresses",
+    "productType": "tops",
+    "productNumber": 398076
+  },
+  {
+    "gender": "girls",
+    "productName": "Black Jersey Logo Dress",
+    "brand": "Calvin Klein Jeans",
+
+    "price": 64990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "black",
+        "colorCode": "#0d0c0d"
+      },
+      {
+        "colorName": "white",
+        "colorCode": "#f6f5fc"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "black",
+        "images": [
+          "/images/girls/dresses/calvin-klein/389460/black/1.jpg",
+          "/images/girls/dresses/calvin-klein/389460/black/2.jpg",
+          "/images/girls/dresses/calvin-klein/389460/black/3.jpg"
+        ]
+      },
+      {
+        "imagesColor": "white",
+        "images": [
+          "/images/girls/dresses/calvin-klein/389460/white/1.jpg",
+          "/images/girls/dresses/calvin-klein/389460/white/2.jpg",
+          "/images/girls/dresses/calvin-klein/389460/white/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["black", "white"],
+    "description": "Girls sleeveless black dress by Calvin Klein Jeans, made in stretchy mid-weight viscose jersey. It has a white elasticated logo waistband and fastens with a button on the back.",
+    "details": [
+      "66% viscose, 29% polyamide, 5% elastane",
+      "Machine wash (30*C)",
+      "Eco-Friendly Fabric"
+    ],
+    "category": "dresses",
+    "productType": "tops",
+    "productNumber": 389460
+  },
+  {
+    "gender": "girls",
+    "productName": "Black Organic Cotton Dress",
+    "brand": "Calvin Klein Jeans",
+
+    "price": 54990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "black",
+        "colorCode": "#0d0c0d"
+      },
+      {
+        "colorName": "pink",
+        "colorCode": "#f9b1fa"
+      },
+      {
+        "colorName": "blue",
+        "colorCode": "#95e0f5"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "black",
+        "images": [
+          "/images/girls/dresses/calvin-klein/389430/black/1.jpg",
+          "/images/girls/dresses/calvin-klein/389430/black/2.jpg"
+        ]
+      },
+      {
+        "imagesColor": "pink",
+        "images": [
+          "/images/girls/dresses/calvin-klein/389430/pink/1.jpg",
+          "/images/girls/dresses/calvin-klein/389430/pink/2.jpg"
+        ]
+      },
+      {
+        "imagesColor": "blue",
+        "images": [
+          "/images/girls/dresses/calvin-klein/389430/blue/1.jpg",
+          "/images/girls/dresses/calvin-klein/389430/blue/2.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["black", "pink", "blue"],
+    "description": "Girls black dress by Calvin Klein Jeans, made in lightweight organic cotton jersey. It has a white and silver logo print, and a gently elasticated waistband.",
+    "details": [
+      "100% organic cotton (lightweight jersey)",
+      "Machine wash (30*C)",
+      "Organic Cotton"
+    ],
+    "category": "dresses",
+    "productType": "tops",
+    "productNumber": 389430
+  },
+  {
+    "gender": "girls",
+    "productName": "Grey Organic Cotton Dress",
+    "brand": "Calvin Klein Jeans",
+    "price": 59990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "gray",
+        "colorCode": "#aaadad"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "gray",
+        "images": [
+          "/images/girls/dresses/calvin-klein/389531/gray/1.jpg",
+          "/images/girls/dresses/calvin-klein/389531/gray/2.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["gray"],
+    "description": "Girls grey dress by Calvin Klein. It is made in soft and stretchy jersey, using at least 50% organic cotton. It has black logo detailing and an elasticated drawstring waistband.",
+    "details": [
+      "92% cotton, 8% elastane",
+      "Machine wash (30*C)",
+      "Organic Cotton",
+      "Made in Europe"
+    ],
+    "category": "dresses",
+    "productType": "tops",
+    "productNumber": 389531
+  },
+  {
+    "gender": "girls",
+    "productName": "Girls Red Cotton Skirt",
+    "brand": "Mayoral",
+    "price": 13990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "blue",
+        "colorCode": "#050642"
+      },
+      {
+        "colorName": "red",
+        "colorCode": "#eb4034"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "blue",
+        "images": [
+          "/images/girls/skirts/mayoral/372817/blue/1.jpg",
+          "/images/girls/skirts/mayoral/372817/blue/2.jpg",
+          "/images/girls/skirts/mayoral/372817/blue/3.jpg"
+        ]
+      },
+      {
+        "imagesColor": "red",
+        "images": [
+          "/images/girls/skirts/mayoral/372817/red/1.jpg",
+          "/images/girls/skirts/mayoral/372817/red/2.jpg",
+          "/images/girls/skirts/mayoral/372817/red/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["red", "blue"],
+    "description": "Pretty navy blue skirt for girls by Mayoral, made in lightweight cotton. It has a useful adjustable waistband, with a sash on the side that ties in a bow. There is a gathered band around the hemline, with horizontal pleats below.",
+    "details": [
+      "61% cotton, 36% polyamide, 3% elastane",
+      "Machine wash (30*C)",
+      "Adjustable waistband on all sizes",
+      "Length: above the knee"
+    ],
+    "category": "skirts",
+    "productType": "tops",
+    "productNumber": 372817
+  },
+  {
+    "gender": "girls",
+    "productName": "Girls Beige Tulle Skirt",
+    "brand": "Mayoral",
+    "price": 17990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "pink",
+        "colorCode": "#ffb0dd"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "pink",
+        "images": [
+          "/images/girls/skirts/mayoral/372540/pink/1.jpg",
+          "/images/girls/skirts/mayoral/372540/pink/2.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["pink"],
+    "description": "Beige skirt for girls by Mayoral, made in layers of soft, pleated tulle, with glitter details. Lined in soft, lightweight polycotton, it has an elasticated waistband.",
+    "details": [
+      "97% polyester, 3% elastodiene",
+      "Machine wash (30*C)",
+      "Lining: 87% polyester, 13% cotton",
+      "Length: just above the knee"
+    ],
+    "category": "skirts",
+    "productType": "tops",
+    "productNumber": 372540
+  },
+  {
+    "gender": "girls",
+    "productName": "Girls Pink Tulle Skirt",
+    "brand": "Mayoral",
+    "price": 13990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "pink",
+        "colorCode": "#ffb0dd"
+      },
+      {
+        "colorName": "yellow",
+        "colorCode": "#fffbcc"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "pink",
+        "images": [
+          "/images/girls/skirts/mayoral/371838/pink/1.jpg",
+          "/images/girls/skirts/mayoral/371838/pink/2.jpg",
+          "/images/girls/skirts/mayoral/371838/pink/3.jpg"
+        ]
+      },
+      {
+        "imagesColor": "yellow",
+        "images": [
+          "/images/girls/skirts/mayoral/371838/yellow/1.jpg",
+          "/images/girls/skirts/mayoral/371838/yellow/2.jpg",
+          "/images/girls/skirts/mayoral/371838/yellow/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["pink", "yellow"],
+    "description": "Pretty coral pink skirt for girls by Mayoral, patterned with embroidered pink dots and frilly tulle trims. Made in two layers of tulle with a cotton lining, it has a comfortable elasticated waistband.",
+    "details": [
+      "97% polyester, 2% polyamide, 1% elastane",
+      "Machine wash (30*C)",
+      "Lining: 100% soft, stretchy cotton jersey",
+      "Length: above the knee"
+    ],
+    "category": "skirts",
+    "productType": "tops",
+    "productNumber": 371838
+  },
+  {
+    "gender": "girls",
+    "productName": "Girls Pink Pleated Skirt",
+    "brand": "Mayoral",
+    "price": 14990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "pink",
+        "colorCode": "#ffb0dd"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "pink",
+        "images": [
+          "/images/girls/skirts/mayoral/371809/pink/1.jpg",
+          "/images/girls/skirts/mayoral/371809/pink/2.jpg",
+          "/images/girls/skirts/mayoral/371809/pink/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["pink"],
+    "description": "Lovely skirt by Mayoral, made in sheer chiffon in shades of pink. Fully lined, it has tiny pleats that get larger as they fall away from the elasticated waistband.",
+    "details": [
+      "100% soft, sheer polyester chiffon",
+      "Machine wash (30*C)",
+      "Lining: 65% polyester, 35% cotton",
+      "Length: Knee length"
+    ],
+    "category": "skirts",
+    "productType": "tops",
+    "productNumber": 371809
+  },
+  {
+    "gender": "girls",
+    "productName": "Blue Pleated Chiffon Skirt",
+    "brand": "Mayoral",
+    "price": 20990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "blue",
+        "colorCode": "#0e094f"
+      },
+      {
+        "colorName": "pink",
+        "colorCode": "#ffb0dd"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "blue",
+        "images": [
+          "/images/girls/skirts/mayoral/371994/blue/1.jpg",
+          "/images/girls/skirts/mayoral/371994/blue/2.jpg",
+          "/images/girls/skirts/mayoral/371994/blue/3.jpg"
+        ]
+      },
+      {
+        "imagesColor": "pink",
+        "images": [
+          "/images/girls/skirts/mayoral/371994/pink/1.jpg",
+          "/images/girls/skirts/mayoral/371994/pink/2.jpg",
+          "/images/girls/skirts/mayoral/371994/pink/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["pink", "blue"],
+    "description": "In ombre shades of blue and white, a soft pleated chiffon skirt for girls by Mayoral. Sheer and lightweight, it has a smooth polycotton lining for added comfort. The gently elasticated waistband makes for a comfortable fit.",
+    "details": [
+      "100% soft polyester chiffon",
+      "Machine wash (30*C)",
+      "Pull-on style",
+      "Length: Knee length"
+    ],
+    "category": "skirts",
+    "productType": "tops",
+    "productNumber": 371994
+  },
+  {
+    "gender": "girls",
+    "productName": "Navy Blue Tulle Skirt",
+    "brand": "Lapin House",
+    "price": 60990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "blue",
+        "colorCode": "#0e094f"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "blue",
+        "images": [
+          "/images/girls/skirts/lapin-house/365966/black/1.jpg",
+          "/images/girls/skirts/lapin-house/365966/black/2.jpg",
+          "/images/girls/skirts/lapin-house/365966/black/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["blue"],
+    "description": "Navy blue skirt for girls by Lapin House, made in layers of soft tulle. It has a soft jersey lining, with a white lace trim at the hem and there is a fixed grosgrain ribbon bow on the elasticated waistband.",
+    "details": [
+      "60% polyamide, 40% nylon",
+      "Made in Europe",
+      "Dry clean",
+      "Length: Knee length"
+    ],
+    "category": "skirts",
+    "productType": "tops",
+    "productNumber": 365966
+  },
+  {
+    "gender": "girls",
+    "productName": "Girls Pink  Skirt",
+    "brand": "Lapin House",
+    "price": 49990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "pink",
+        "colorCode": "#f7b0c9"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "pink",
+        "images": [
+          "/images/girls/skirts/lapin-house/365995/pink/1.jpg",
+          "/images/girls/skirts/lapin-house/365995/pink/2.jpg",
+          "/images/girls/skirts/lapin-house/365995/pink/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["pink"],
+    "description": "Girls pink skirt by Lapin House, made in layers of tiered tulle. It is lined in soft and stretchy jersey, and has a silver and white elasticated waistband.",
+    "details": [
+      "100% soft nylon tulle",
+      "Made in Europe",
+      "Machine wash (30*C)",
+      "Below the knee length"
+    ],
+    "category": "skirts",
+    "productType": "tops",
+    "productNumber": 365995
+  },
+  {
+    "gender": "girls",
+    "productName": "Blue Ruffle Cotton Skirt",
+    "brand": "Lapin House",
+    "price": 51990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "blue",
+        "colorCode": "#0e0b26"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "blue",
+        "images": [
+          "/images/girls/skirts/lapin-house/365961/blue/1.jpg",
+          "/images/girls/skirts/lapin-house/365961/blue/2.jpg",
+          "/images/girls/skirts/lapin-house/365961/blue/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["blue"],
+    "description": "Patterned with a smart blue and white stripe print, a soft cotton skirt for girls by Lapin House. In a fashionable midi-length style, the skirt has a large navy blue ruffle on one side and a striped elasticated waistband.",
+    "details": [
+      "99% cotton, 1% elastane",
+      "Made in Europe",
+      "Machine wash (30*C)",
+      "Below the knee length"
+    ],
+    "category": "skirts",
+    "productType": "tops",
+    "productNumber": 365961
+  },
+  {
+    "gender": "girls",
+    "productName": "White & Blue Mesh Skirt",
+    "brand": "Lapin House",
+    "price": 56990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "blue",
+        "colorCode": "#383ee8"
+      },
+      {
+        "colorName": "yellow",
+        "colorCode": "#ffeb7a"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "blue",
+        "images": [
+          "/images/girls/skirts/lapin-house/366026/blue/1.jpg",
+          "/images/girls/skirts/lapin-house/366026/blue/2.jpg",
+          "/images/girls/skirts/lapin-house/366026/blue/3.jpg"
+        ]
+      },
+      {
+        "imagesColor": "yellow",
+        "images": [
+          "/images/girls/skirts/lapin-house/366026/yellow/1.jpg",
+          "/images/girls/skirts/lapin-house/366026/yellow/2.jpg",
+          "/images/girls/skirts/lapin-house/366026/yellow/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["blue", "yellow"],
+    "description": "Stylish for girls, a white and blue striped skirt by Lapin House, made from super soft pleated mesh. Fully lined in smooth cotton for added comfort, it has a thick elasticated waistband for a comfortable fit.",
+    "details": [
+      "100% tactel",
+      "Made in Europe",
+      "Pull-on style",
+      "Machine wash (30*C)",
+      "Below the knee length"
+    ],
+    "category": "skirts",
+    "productType": "tops",
+    "productNumber": 366026
+  },
+  {
+    "gender": "girls",
+    "productName": "Girls Red Tulle Skirt",
+    "brand": "Guess",
+    "price": 32990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "red",
+        "colorCode": "#d9070a"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "red",
+        "images": [
+          "/images/girls/skirts/guess/387874/red/1.jpg",
+          "/images/girls/skirts/guess/387874/red/2.jpg",
+          "/images/girls/skirts/guess/387874/red/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["red"],
+    "description": "Pink skirt by American designer Guess, made in tiers of soft tulle. Longer around the back than the front, it is lined in pink satin and has the brand's silver logo tab on the comfortable, elasticated waistband.",
+    "details": [
+      "100% soft polyester tulle",
+      "Lining: 96% polyester, 4% elastane",
+      "Machine wash (30*C)",
+      "Length: above knee on front, below knee on back"
+    ],
+    "category": "skirts",
+    "productType": "tops",
+    "productNumber": 387874
+  },
+  {
+    "gender": "girls",
+    "productName": "Girls Silver Iridescent Boots",
+    "brand": "Monnalisa",
+    "price": 145990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "silver",
+        "colorCode": "#e3e3e3"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "silver",
+        "images": [
+          "/images/girls/shoes/monnalisa/394820/silver/1.jpg",
+          "/images/girls/shoes/monnalisa/394820/silver/2.jpg",
+          "/images/girls/shoes/monnalisa/394820/silver/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["silver"],
+    "description": "Silver iridescent boots for younger girls, by Monnalisa. Made from soft faux leather, they have sweet pale pink velvet laces, a pretty pink floral appliqué on the sides, and a cool chunky rubber sole.",
+    "details": [
+      "Faux leather upper",
+      "Leather insole",
+      "Rubber non-slip sole",
+      "Side zip fastening",
+      "Made in Italy"
+    ],
+    "category": "shoes",
+    "productType": "tops",
+    "productNumber": 394820
+  },
+  {
+    "gender": "girls",
+    "productName": "Girls Gold Flowers Boots",
+    "brand": "Monnalisa",
+    "price": 145990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "gold",
+        "colorCode": "#e8da6d"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "gold",
+        "images": [
+          "/images/girls/shoes/monnalisa/394804/gold/1.jpg",
+          "/images/girls/shoes/monnalisa/394804/gold/2.jpg",
+          "/images/girls/shoes/monnalisa/394804/gold/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["gold"],
+    "description": "Gold shimmering boots for girls by Monnalisa. With smooth uppers, these striking shoes have velvet laces, beautiful pink floral embroidery, and zip fastenings on the sides for ease when dressing. Lined in soft leather, they have a non-slip rubber sole and a heart-shaped logo charm on one shoe.",
+    "details": [
+      "Textile uppers",
+      "Leather lining & insole",
+      "Non-slip rubber sole",
+      "Lace-up",
+      "Side zip fastenings",
+      "Made in Italy"
+    ],
+    "category": "shoes",
+    "productType": "tops",
+    "productNumber": 394804
+  },
+  {
+    "gender": "girls",
+    "productName": "Pink Bow Leather Boots",
+    "brand": "Monnalisa",
+    "price": 156990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "pink",
+        "colorCode": "#fc95c0"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "pink",
+        "images": [
+          "/images/girls/shoes/monnalisa/394810/pink/1.jpg",
+          "/images/girls/shoes/monnalisa/394810/pink/2.jpg",
+          "/images/girls/shoes/monnalisa/394810/pink/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["pink"],
+    "description": "Lovely pink ankle boots for girls by Italian brand Monnalisa, made in soft suede leather with cute iridescent spotty pattern. They have velcro straps over the lace fastenings, detailed with a pretty bow with sparkly pink diamanté and also zips on the inner sides. There are soft, silver leather lining and brown rubber lug soles.",
+    "details": [
+      "Suede leather upper (soft)",
+      "Leather lining & insole",
+      "Rubber outsole",
+      "Side zip fastenings",
+      "Made in Italy"
+    ],
+    "category": "shoes",
+    "productType": "tops",
+    "productNumber": 394810
+  },
+  {
+    "gender": "girls",
+    "productName": "Black Patent Leather Boots",
+    "brand": "Monnalisa",
+    "price": 194990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "black",
+        "colorCode": "#0a0a0a"
+      },
+      {
+        "colorName": "silver",
+        "colorCode": "#e3e3e3"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "black",
+        "images": [
+          "/images/girls/shoes/monnalisa/394799/black/1.jpg",
+          "/images/girls/shoes/monnalisa/394799/black/2.jpg",
+          "/images/girls/shoes/monnalisa/394799/black/3.jpg"
+        ]
+      },
+      {
+        "imagesColor": "silver",
+        "images": [
+          "/images/girls/shoes/monnalisa/394799/silver/1.jpg",
+          "/images/girls/shoes/monnalisa/394799/silver/2.jpg",
+          "/images/girls/shoes/monnalisa/394799/silver/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["black", "silver"],
+    "description": "Girls shiny black patent leather ankle boots by luxury brand Monnalisa. So stylish, they have sparkly diamanté bows on the front, shiny silver studs and buckle details on the sides. There is a black and white logo branded grosgrain pull on the back. They are lined in soft leather and have zip fastenings and a lace-up front.",
+    "details": [
+      "Patent leather upper (shiny, soft)",
+      "Leather lining & insole",
+      "Non-slip rubber outsole",
+      "Lace-up & side zip fastenings",
+      "Made in Italy"
+    ],
+    "category": "shoes",
+    "productType": "tops",
+    "productNumber": 394799
+  },
+  {
+    "gender": "girls",
+    "productName": "Girls Gold Glitter Boots",
+    "brand": "Monnalisa",
+    "price": 194990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "pink",
+        "colorCode": "#fad4f3"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "pink",
+        "images": [
+          "/images/girls/shoes/monnalisa/394802/pink/1.jpg",
+          "/images/girls/shoes/monnalisa/394802/pink/2.jpg",
+          "/images/girls/shoes/monnalisa/394802/pink/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["pink"],
+    "description": "Glittery gold boots for girls by Italian brand Monnalisa, with black piping trims. These calf length boots have a black and white logo grosgrain ribbon trim and beige velvet ribbon decorative laces. The lining and insoles are made from soft leather and there are zip fastenings on the side and a black non-slip rubber sole.",
+    "details": [
+      "Textile uppers",
+      "Leather lining & insole",
+      "Non-slip rubber sole",
+      "Zip fastening",
+      "Made in Italy"
+    ],
+    "category": "shoes",
+    "productType": "tops",
+    "productNumber": 394802
+  },
+  {
+    "gender": "girls",
+    "productName": "Black Faux Leather Boots",
+    "brand": "Tommy Hilfiger",
+    "price": 84990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "black",
+        "colorCode": "#0a0a0a"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "black",
+        "images": [
+          "/images/girls/shoes/tommy-hilfiger/392101/black/1.jpg",
+          "/images/girls/shoes/tommy-hilfiger/392101/black/2.jpg",
+          "/images/girls/shoes/tommy-hilfiger/392101/black/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["black"],
+    "description": "Girls black patent boots by Tommy Hilfiger, made in smooth faux leather. They have a side zip with velcro closing tab and laces at the front. They are lined in leather and textile and have a deep, non-slip tread. At the back is a heel pull and a logo tab in the designer's signature colours of red, white and blue.",
+    "details": [
+      "Faux leather uppers (shiny patent)",
+      "Leather & textile lining",
+      "Non-slip rubber sole",
+      "Side zip",
+      "Made in Italy"
+    ],
+    "category": "shoes",
+    "productType": "tops",
+    "productNumber": 392101
+  },
+  {
+    "gender": "girls",
+    "productName": "White Faux Leather Boots",
+    "brand": "Tommy Hilfiger",
+    "price": 94990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "white",
+        "colorCode": "#f0f0f0"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "white",
+        "images": [
+          "/images/girls/shoes/tommy-hilfiger/392121/white/1.jpg",
+          "/images/girls/shoes/tommy-hilfiger/392121/white/2.jpg",
+          "/images/girls/shoes/tommy-hilfiger/392121/white/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["white"],
+    "description": "Girls white patent boots by Tommy Hilfiger, made in smooth faux leather. They have a side zip with velcro closing tab and logo-branded laces at the front. They are lined in leather and textile and have a deep, non-slip tread. At the back is a heel pull and a logo tab in the designer's signature colours of red, white and blue.",
+    "details": [
+      "Faux leather uppers (shiny patent)",
+      "Leather & textile lining",
+      "Non-slip rubber sole",
+      "Side zip",
+      "Made in Italy"
+    ],
+    "category": "shoes",
+    "productType": "tops",
+    "productNumber": 392121
+  },
+  {
+    "gender": "girls",
+    "productName": "Black Leather Boots",
+    "brand": "Balmain",
+    "price": 439990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "black",
+        "colorCode": "#0f0f0f"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "black",
+        "images": [
+          "/images/girls/shoes/balmain/392029/black/1.jpg",
+          "/images/girls/shoes/balmain/392029/black/2.jpg",
+          "/images/girls/shoes/balmain/392029/black/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["black"],
+    "description": "Black leather boots for boys and girls by French luxury brand Balmain. The soft leather lace-up uppers also have a gold side zip fastening and an adjustable belt fastening across the tongue with a gold logo buckle. The soft and comfortable insole is made in leather and the outer sole is made in black chunky non-slip rubber.",
+    "details": [
+      "Faux leather uppers (shiny patent)",
+      "Leather uppers & insole",
+      "Non-slip rubber sole",
+      "Adjustable buckle fastening",
+      "Made in Italy"
+    ],
+    "category": "shoes",
+    "productType": "tops",
+    "productNumber": 392029
+  },
+  {
+    "gender": "girls",
+    "productName": "Black Patent  Boots",
+    "brand": "Balmain",
+    "price": 409990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "black",
+        "colorCode": "#0f0f0f"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "black",
+        "images": [
+          "/images/girls/shoes/balmain/392052/black/1.jpg",
+          "/images/girls/shoes/balmain/392052/black/2.jpg",
+          "/images/girls/shoes/balmain/392052/black/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["black"],
+    "description": "Girls super stylish patent leather boots by luxury brand, Balmain. Made in leather, with a shiny finish, these Chelsea-style ankle boots have elasticated sides and a heel pull for easy dressing. They have a side strap with a gold-coloured 'B' logo embossed slide buckle. Fully lined in smooth leather, they have a chunky, deep tread rubber sole for a sure grip in all weathers.",
+    "details": [
+      "Uppers: 100% leather (shiny patent)",
+      "Lining & inner sole: 100% leather",
+      "Chunky non-slip rubber outer sole",
+      "Elasticated sides",
+      "Slide 'B' buckle hardware",
+      "Made in Italy"
+    ],
+    "category": "shoes",
+    "productType": "tops",
+    "productNumber": 392052
+  },
+  {
+    "gender": "girls",
+    "productName": "Girls Black Ankle Boots",
+    "brand": "Tommy Hilfiger",
+    "price": 84990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "black",
+        "colorCode": "#0f0f0f"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "black",
+        "images": [
+          "/images/girls/shoes/tommy-hilfiger/392097/black/1.jpg",
+          "/images/girls/shoes/tommy-hilfiger/392097/black/2.jpg",
+          "/images/girls/shoes/tommy-hilfiger/392097/black/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["black"],
+    "description": "Girls black faux leather ankle boots from Tommy Hilfiger, with navy blue, red and white flag logo detail. They are lined in fabric, with a fabric inner sole and chunky non-slip rubber outer sole. They have embossed logos around the base of the boot and a logo pull tab on the back. They fasten with a zip on the side and have an elasticated side insert for added comfort.",
+    "details": [
+      "Faux leather outer",
+      "Fabric lining",
+      "Lightly padded fabric inner sole",
+      "Chunky, non-slip rubber outer sole",
+      "Elasticated side insert"
+    ],
+    "category": "shoes",
+    "productType": "tops",
+    "productNumber": 392097
+  },
+  {
+    "gender": "baibes",
+    "productName": "Pink Floral Baby Leggings Set",
+    "brand": "Guess",
+    "price": 27990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "pink",
+        "colorCode": "#ff9ecf"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "pink",
+        "images": [
+          "/images/baibes/outfits/guess/387864/pink/1.jpg",
+          "/images/baibes/outfits/guess/387864/pink/2.jpg",
+          "/images/baibes/outfits/guess/387864/pink/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["pink"],
+    "description": "Sweet pink floral leggings set for baby girls by Guess, made in soft cotton jersey. The white top has a pink floral heart appliqué with silver logo embroidery and edging, and a pink chiffon overlay on the back. The matching leggings have a comfortable elasticated waistband.",
+    "details": [
+      "Top & leggings: 95% cotton, 5% elastane",
+      "Back panel: 100% polyester chiffon",
+      "Hand wash with care / do not soak",
+      "Top: popper fasteners on one shoulder",
+      "2 piece set"
+    ],
+    "category": "outfits",
+    "productType": "tops",
+    "productNumber": 387864
+  },
+  {
+    "gender": "baibes",
+    "productName": "Pink Top & Blue Shorts Set",
+    "brand": "Guess",
+    "price": 31990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "pink",
+        "colorCode": "#ff9ecf"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "pink",
+        "images": [
+          "/images/baibes/outfits/guess/387815/pink/1.jpg",
+          "/images/baibes/outfits/guess/387815/pink/2.jpg",
+          "/images/baibes/outfits/guess/387815/pink/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["pink"],
+    "description": "A cute top and shorts set for baby girls by Guess. The pink cotton T-shirt has a sparkly silver heart on the front, with navy blue logo embroidery and pretty pink flowers. The stretchy blue denim shorts have pink embroidered hearts and pink logo embroidery, with a comfortable elasticated waistband.",
+    "details": [
+      "T-shirt: 95% cotton jersey, 5% elastane",
+      "Shorts: 72% cotton, 23% polyester, 3% viscose, 2% elastane",
+      "Machine wash (30*C)",
+      "T-shirt: popper fastenings on one shoulder",
+      "2 piece set"
+    ],
+    "category": "outfits",
+    "productType": "tops",
+    "productNumber": 387815
+  },
+  {
+    "gender": "baibes",
+    "productName": "Girls Pink Floral Skirt Set",
+    "brand": "Guess",
+    "price": 31990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "pink",
+        "colorCode": "#ff9ecf"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "pink",
+        "images": [
+          "/images/baibes/outfits/guess/387895/pink/1.jpg",
+          "/images/baibes/outfits/guess/387895/pink/2.jpg",
+          "/images/baibes/outfits/guess/387895/pink/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["pink"],
+    "description": "Lovely outfit for baby girls by American designer Guess. The cotton skirt/skort has a red and green floral print, with adjustable, scalloped shoulder straps and frills around the back of the attached bloomer-style shorts. It comes with a white cotton jersey bodysuit embroidered with a pink and white logo.",
+    "details": [
+      "Bodysuit: 95% cotton, 5% elastane ",
+      "Skort: 100% soft, lightweight cotton",
+      "Machine wash (30*C)",
+      "Bodysuit: popper fastenings between legs",
+      "2 piece set"
+    ],
+    "category": "outfits",
+    "productType": "tops",
+    "productNumber": 387895
+  },
+  {
+    "gender": "baibes",
+    "productName": "Pink Floral Baby Dress Set",
+    "brand": "Guess",
+    "price": 17990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "pink",
+        "colorCode": "#ff9ecf"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "pink",
+        "images": [
+          "/images/baibes/outfits/guess/387841/pink/1.jpg",
+          "/images/baibes/outfits/guess/387841/pink/2.jpg",
+          "/images/baibes/outfits/guess/387841/pink/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["pink"],
+    "description": "Baby girls white and pink floral print dress and knickers set by Guess, made from soft cotton jersey. The dress has a tulle overlay, gathered on the waist with a pink sequined 'love' lettering on the front. The matching knickers are gently elasticated.",
+    "details": [
+      "95% cotton, 5% elastane",
+      "Tulle: 100% polyester (soft & fine)",
+      "Machine wash (30*C)",
+      "Back button fastening on the dress",
+      "2 piece set"
+    ],
+    "category": "outfits",
+    "productType": "tops",
+    "productNumber": 387841
+  },
+  {
+    "gender": "baibes",
+    "productName": "White Cotton & Tulle Dress",
+    "brand": "Guess",
+    "price": 17990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "white",
+        "colorCode": "#f7f2f5"
+      },
+      {
+        "colorName": "blue",
+        "colorCode": "#0d0e42"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "white",
+        "images": [
+          "/images/baibes/outfits/guess/387905/white/1.jpg",
+          "/images/baibes/outfits/guess/387905/white/2.jpg",
+          "/images/baibes/outfits/guess/387905/white/3.jpg"
+        ]
+      },
+      {
+        "imagesColor": "blue",
+        "images": [
+          "/images/baibes/outfits/guess/387905/blue/1.jpg",
+          "/images/baibes/outfits/guess/387905/blue/2.jpg",
+          "/images/baibes/outfits/guess/387905/blue/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["white", "blue"],
+    "description": "Sweet white dress for girls by American designer Guess. Made in comfortable cotton jersey, it has the brand's glittery silver logo on the bodice. There is a white tulle overlay on the skirt and an elasticated silver waistband.",
+    "details": [
+      "91% cotton, 9% elastane (soft, stretchy jersey)",
+      "Overlay: 100% soft, lightweight, polyamide tulle",
+      "Hand wash with care / do not soak",
+      "Length: above the knees"
+    ],
+    "category": "outfits",
+    "productType": "tops",
+    "productNumber": 387905
+  },
+  {
+    "gender": "baibes",
+    "productName": "Pale Blue Cotton Trouser Set",
+    "brand": "BOSS Kidswear",
+    "price": 11990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "blue",
+        "colorCode": "#84aee8"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "blue",
+        "images": [
+          "/images/baibes/outfits/boss/408225/blue/1.jpg",
+          "/images/baibes/outfits/boss/408225/blue/2.jpg",
+          "/images/baibes/outfits/boss/408225/blue/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["blue"],
+    "description": "Three-piece blue trouser set for baby boys, by BOSS Kidswear. Made from soft cotton jersey, the white top has the brand's logo in red and blue printed on the front. It comes with matching pale blue joggers with navy blue logo trims on the pockets. The blue zip-up top has the brand's logo embroidered on the front in pale blue, with matching navy blue logo trims.",
+    "details": [
+      "100% cotton jersey (soft & stretchy)",
+      "Poppers on the shoulder of the top",
+      "Machine wash (30*C)",
+      "Length: above the knees",
+      "3 piece set"
+    ],
+    "category": "outfits",
+    "productType": "tops",
+    "productNumber": 408225
+  },
+  {
+    "gender": "baibes",
+    "productName": "Boys Black Logo Tracksuit",
+    "brand": "BOSS Kidswear",
+    "price": 11290,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "blue",
+        "colorCode": "#100991"
+      },
+      {
+        "colorName": "black",
+        "colorCode": "#0e0e0f"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "blue",
+        "images": [
+          "/images/baibes/outfits/boss/408016/blue/1.jpg",
+          "/images/baibes/outfits/boss/408016/blue/2.jpg",
+          "/images/baibes/outfits/boss/408016/blue/3.jpg"
+        ]
+      },
+      {
+        "imagesColor": "black",
+        "images": [
+          "/images/baibes/outfits/boss/408016/black/1.jpg",
+          "/images/baibes/outfits/boss/408016/black/2.jpg",
+          "/images/baibes/outfits/boss/408016/black/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["blue", "black"],
+    "description": "Younger boys royal blue tracksuit by BOSS Kidswear. Made in soft cotton jersey with a cosy fleece interior, the top and bottoms have white logo prints and piping details. The hooded top has two front pockets and a zip fastening. The joggers have an elasticated waist with a drawstring, two front pockets, and a back pocket.",
+    "details": [
+      "100% cotton jersey (soft & stretchy)",
+      "Poppers on the shoulder of the top",
+      "Machine wash (30*C)",
+      "3 piece set"
+    ],
+    "category": "outfits",
+    "productType": "tops",
+    "productNumber": 408016
+  },
+  {
+    "gender": "baibes",
+    "productName": "Boys Colour Block Tracksuit",
+    "brand": "BOSS Kidswear",
+    "price": 154900,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "black",
+        "colorCode": "#0e0e0f"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "black",
+        "images": [
+          "/images/baibes/outfits/boss/407888/black/1.jpg",
+          "/images/baibes/outfits/boss/407888/black/2.jpg",
+          "/images/baibes/outfits/boss/407888/black/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["black"],
+    "description": "Khaki green, red and navy blue colour block tracksuit for younger boys by BOSS Kidswear. Made with soft and stretchy polycotton jersey, lined with cosy fleece, and white logo prints. The zip-up top has a soft and silky hood, zip fastening, and two front pockets. The joggers have front pockets and a silky elasticated waist,with a drawstring fastening.",
+    "details": [
+      "65% cotton, 53% polyester",
+      "Top: zip fastening",
+      "Machine wash (30*C)",
+      "Drawstring waistband"
+    ],
+    "category": "outfits",
+    "productType": "tops",
+    "productNumber": 407888
+  },
+  {
+    "gender": "baibes",
+    "productName": "Baby Boys Grey Logo Tracksuit",
+    "brand": "BOSS Kidswear",
+    "price": 119900,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "gray",
+        "colorCode": "#5c5c63"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "gray",
+        "images": [
+          "/images/baibes/outfits/boss/407885/gray/1.jpg",
+          "/images/baibes/outfits/boss/407885/gray/2.jpg",
+          "/images/baibes/outfits/boss/407885/gray/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["gray"],
+    "description": "Little boys grey tracksuit with white panels and logos from BOSS Kidswear, made in a mid-weight cotton jersey with a fleecy inside. The zip-up top has front pockets and a cotton-lined hood. The matching joggers have an elasticated waistband for pull-on wear and side pockets.",
+    "details": [
+      "87% cotton, 13% polyester",
+      "Hood lining: 100% cotton",
+      "Machine wash (30*C)",
+      "Top: zip fastening on the front"
+    ],
+    "category": "outfits",
+    "productType": "tops",
+    "productNumber": 407885
+  },
+  {
+    "gender": "baibes",
+    "productName": "Baby Boys Linen Buster Suit",
+    "brand": "Ancar",
+    "price": 45900,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "blue",
+        "colorCode": "#9eb6ff"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "blue",
+        "images": [
+          "/images/baibes/outfits/ancar/60121/blue/1.jpg",
+          "/images/baibes/outfits/ancar/60121/blue/2.jpg",
+          "/images/baibes/outfits/ancar/60121/blue/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["blue"],
+    "description": "A smart, blue and white short for baby boys by Ancar. The lightweight, cotton shirt has a pale blue striped pattern and attaches to the shorts with buttons on the front. The white, linen blend shorts are fully lined and have a comfortable elasticated waistband.",
+    "details": [
+      "Top: 50% cotton, 50% linen",
+      "Shorts: soft cotton & linen blend",
+      "Machine wash (30*C)",
+      "Small fitting",
+      "2 piece set"
+    ],
+    "category": "outfits",
+    "productType": "tops",
+    "productNumber": 60121
+  },
+  {
+    "gender": "baibes",
+    "productName": "Navy Blue Velour Logo Romper",
+    "brand": "Moncler Enfant",
+    "price": 184990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "black",
+        "colorCode": "#131414"
+      },
+      {
+        "colorName": "white",
+        "colorCode": "#e8eded"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "black",
+        "images": [
+          "/images/baibes/suits/moncler/412170/black/1.jpg",
+          "/images/baibes/suits/moncler/412170/black/2.jpg",
+          "/images/baibes/suits/moncler/412170/black/3.jpg"
+        ]
+      },
+      {
+        "imagesColor": "white",
+        "images": [
+          "/images/baibes/suits/moncler/412170/white/1.jpg",
+          "/images/baibes/suits/moncler/412170/white/2.jpg",
+          "/images/baibes/suits/moncler/412170/white/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["black", "white"],
+    "description": "Navy blue hooded romper for baby boys by luxury brand, Moncler Enfant. Cosy and comfortable, this babysuit is made in soft and stretchy cotton blend velour, with the designer's logo, embroidered on the white and blue stripe across the front. The hood is lined with white soft cotton jersey for comfort, and it fastens with a zip on the front.",
+    "details": [
+      "88% cotton, 12% polyester",
+      "Hood lining: 95% cotton, 5% elastane",
+      "Machine wash (30*C)",
+      "Front zip fastening",
+      "Made in Europe"
+    ],
+    "category": "suits",
+    "productType": "tops",
+    "productNumber": 412170
+  },
+  {
+    "gender": "baibes",
+    "productName": "Navy Blue Jersey Romper",
+    "brand": "Moncler Enfant",
+    "price": 179990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "black",
+        "colorCode": "#131414"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "black",
+        "images": [
+          "/images/baibes/suits/moncler/373914/black/1.jpg",
+          "/images/baibes/suits/moncler/373914/black/2.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["black"],
+    "description": "Navy blue hooded romper for baby boys and girls by Moncler Enfant. It has red, white, blue and black trims on the cuffs, ankles and zip, and there is a silver logo printed on the leg. It fastens with a branded zip on the front and poppers between the legs.",
+    "details": [
+      "95% cotton, 5% elastane",
+      "Popper fastening",
+      "Machine wash (30*C)",
+      "Suitable for boys & girls",
+      "Made in Europe"
+    ],
+    "category": "suits",
+    "productType": "tops",
+    "productNumber": 373914
+  },
+  {
+    "gender": "baibes",
+    "productName": "Black Polar Fleece Pramsuit",
+    "brand": "Moncler Enfant",
+    "price": 224990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "black",
+        "colorCode": "#131414"
+      },
+      {
+        "colorName": "pink",
+        "colorCode": "#ffe6f9"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "black",
+        "images": [
+          "/images/baibes/suits/moncler/412078/black/1.jpg",
+          "/images/baibes/suits/moncler/412078/black/2.jpg",
+          "/images/baibes/suits/moncler/412078/black/3.jpg"
+        ]
+      },
+      {
+        "imagesColor": "pink",
+        "images": [
+          "/images/baibes/suits/moncler/412078/pink/1.jpg",
+          "/images/baibes/suits/moncler/412078/pink/2.jpg",
+          "/images/baibes/suits/moncler/412078/pink/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["black", "pink"],
+    "description": "Black polar fleece pramsuit for baby girls and boys by Moncler Enfant. Soft and cosy, there is a fixed hood and fold-back cuffs on the sleeves and feet. There is an asymmetric zip, stitched logo patch on the front and a black rubber logo badge on one sleeve.",
+    "details": [
+      "93% polyester, 7% elastane",
+      "Fold-back cuffs & feet",
+      "Hand wash with care / do not soak",
+      "Front zip fastening",
+      "Suitable for girls & boys"
+    ],
+    "category": "suits",
+    "productType": "tops",
+    "productNumber": 412078
+  },
+  {
+    "gender": "baibes",
+    "productName": "Pink Cotton Logo Romper",
+    "brand": "Moncler Enfant",
+    "price": 149990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "white",
+        "colorCode": "#faf5f9"
+      },
+      {
+        "colorName": "pink",
+        "colorCode": "#ffe6f9"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "pink",
+        "images": [
+          "/images/baibes/suits/moncler/412252/pink/1.jpg",
+          "/images/baibes/suits/moncler/412252/pink/2.jpg"
+        ]
+      },
+      {
+        "imagesColor": "white",
+        "images": [
+          "/images/baibes/suits/moncler/412252/white/1.jpg",
+          "/images/baibes/suits/moncler/412252/white/2.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["white", "pink"],
+    "description": "Pink romper for girls by Moncler Enfant, made in thick cotton jersey. The front has a white logo print and the inside has a brushed fleece feel. There are poppers on the back and between the legs for easy dressing and changing.",
+    "details": [
+      "95% cotton, 5% elastane (thick, soft jersey)",
+      "Popper fastenings on the back & between the legs",
+      "Machine wash (30*C)"
+    ],
+    "category": "suits",
+    "productType": "tops",
+    "productNumber": 412252
+  },
+  {
+    "gender": "baibes",
+    "productName": "White Down Padded Snowsuit",
+    "brand": "Moncler Enfant",
+    "price": 435990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "white",
+        "colorCode": "#faf5f9"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "white",
+        "images": [
+          "/images/baibes/suits/moncler/412293/white/1.jpg",
+          "/images/baibes/suits/moncler/412293/white/2.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["white"],
+    "description": "Luxury two-piece snowsuit for little girls by Moncler Enfant. Padded with warm down and lined in cotton jersey, the outer fabric is soft and silky. The zip-up puffer jacket has a red terrycloth 'Love' patch, incorporating the brand's tricolour logo, and a felt logo badge on one sleeve. The trousers have elasticated straps and ribbed cuff inserts.",
+    "details": [
+      "100% polyamide (soft, silky)",
+      "Padding: 90% down, 10% feathers",
+      "Made in Italy",
+      "Hand wash with care / do not wash"
+    ],
+    "category": "suits",
+    "productType": "tops",
+    "productNumber": 412293
+  },
+  {
+    "gender": "baibes",
+    "productName": "Ivory Cotton Tennis Babygrow",
+    "brand": "Gucci",
+    "price": 264990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "pink",
+        "colorCode": "#ffedfb"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "pink",
+        "images": [
+          "/images/baibes/suits/gucci/356177/pink/1.jpg",
+          "/images/baibes/suits/gucci/356177/pink/2.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["pink"],
+    "description": "Ivory hooded babygrow for girls and boys by luxury brand Gucci, with red and green tennis embroidery. It is made from soft and stretchy looped-back cotton jersey, with turned-up cuffs and button fastenings.",
+    "details": [
+      "100% cotton jersey (mid-weight, looped-back)",
+      "Hand wash with care / do not soak",
+      "Made in Italy",
+      "Front button fastening"
+    ],
+    "category": "suits",
+    "productType": "tops",
+    "productNumber": 356177
+  },
+  {
+    "gender": "baibes",
+    "productName": "Beige Velour Zip-Up Romper",
+    "brand": "Gucci",
+    "price": 259990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "beige",
+        "colorCode": "#fcd7cc"
+      },
+      {
+        "colorName": "black",
+        "colorCode": "#0d0c0c"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "beige",
+        "images": [
+          "/images/baibes/suits/gucci/355826/beige/1.jpg",
+          "/images/baibes/suits/gucci/355826/beige/2.jpg"
+        ]
+      },
+      {
+        "imagesColor": "black",
+        "images": [
+          "/images/baibes/suits/gucci/355826/black/1.jpg",
+          "/images/baibes/suits/gucci/355826/black/2.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["beige", "black"],
+    "description": "Beige zip-up romper for baby boys and girls by Italian brand Gucci. It is made from luxuriously soft cotton velour with soft ribbed trims.The front has embroidered beige Gucci logo, with green and red Web stripes. There are embroidered romantic slogans 'Maison de l'amour' and 'Sine amore nihil' which translate 'House of love' and ' Without love, nothing'.",
+    "details": [
+      "85% cotton velour, 15% polyamide",
+      "Hand wash with care / do not soak",
+      "Made in Italy",
+      "Front zip fastening",
+      "Suitable for boys & girls"
+    ],
+    "category": "suits",
+    "productType": "tops",
+    "productNumber": 355826
+  },
+  {
+    "gender": "baibes",
+    "productName": "Blue Vintage Logo Babygrow",
+    "brand": "Gucci",
+    "price": 164990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "blue",
+        "colorCode": "#a9beeb"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "blue",
+        "images": [
+          "/images/baibes/suits/gucci/355976/blue/1.jpg",
+          "/images/baibes/suits/gucci/355976/blue/2.jpg",
+          "/images/baibes/suits/gucci/355976/blue/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["blue"],
+    "description": "Blue babygrow from luxury designer Gucci, with a gold, green and red vintage logo inspired by the adult collections. It is made in soft and stretchy cotton jersey, with poppers on the back and between the legs.",
+    "details": [
+      "100% soft & stretchy cotton jersey",
+      "Hand wash with care / do not soak",
+      "Made in Italy",
+      "Poppers on the back & between the legs",
+      "Suitable for boys & girls"
+    ],
+    "category": "suits",
+    "productType": "tops",
+    "productNumber": 355976
+  },
+  {
+    "gender": "baibes",
+    "productName": "Navy Blue 3 Piece Babygrow Set",
+    "brand": "Gucci",
+    "price": 319990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "blue",
+        "colorCode": "#182542"
+      },
+      {
+        "colorName": "white",
+        "colorCode": "#d2d3d6"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "blue",
+        "images": [
+          "/images/baibes/suits/gucci/307662/blue/1.jpg",
+          "/images/baibes/suits/gucci/307662/blue/2.jpg"
+        ]
+      },
+      {
+        "imagesColor": "white",
+        "images": [
+          "/images/baibes/suits/gucci/307662/white/1.jpg",
+          "/images/baibes/suits/gucci/307662/white/2.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["blue", "white"],
+    "description": "Three-piece babysuit, bib and hat, suitable for boys and girls by Gucci. Made in soft cotton piqué, this stylish gift set is embroidered with twisted red and green web, and signature interlocking G logos.",
+    "details": [
+      "96% cotton, 4% elastane",
+      "Hand wash with care / do not soak",
+      "Made in Italy",
+      "Adjustable poppers on bib",
+      "Suitable for boys & girls"
+    ],
+    "category": "suits",
+    "productType": "tops",
+    "productNumber": 307662
+  },
+  {
+    "gender": "baibes",
+    "productName": "3 Piece Logo Babysuit Gift Set",
+    "brand": "Gucci",
+    "price": 284990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "white",
+        "colorCode": "#fafafa"
+      }
+    ],
+    "images": [
+      {
+        "imagesColor": "white",
+        "images": [
+          "/images/baibes/suits/gucci/307662/white/1.jpg",
+          "/images/baibes/suits/gucci/307662/white/2.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["white"],
+    "description": "Lovely off-white romper, hat and bib set for baby boys and girls by luxury brand Gucci, presented in a branded gift box. Made in soft cotton jersey, the set has the 'Original Gucci' logo print in blue and red. The romper has a ribbed collar and rolled-up cuffs. The hat is in a double layer with a sweet beige cat, red and blue logo embroidered on the brim.",
+    "details": [
+      "100% cotton jersey (soft & stretchy)",
+      "Hand wash with care / do not soak",
+      "Made in Italy",
+      "Bib: adjustable, popper fastening on the back",
+      "Suitable for boys & girls"
+    ],
+    "category": "suits",
+    "productType": "tops",
+    "productNumber": 307662
+  },
+  {
+    "gender": "baibes",
+    "productName": "Girls Ivory Down Padded Dress",
+    "brand": "Moncler Enfant",
+    "price": 184990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "white",
+        "colorCode": "#fafafa"
+      }
+    ],
+
+    "images": [
+      {
+        "imagesColor": "white",
+        "images": [
+          "/images/baibes/dresse/moncler/412325/white/1.jpg",
+          "/images/baibes/dresse/moncler/412325/white/2.jpg",
+          "/images/baibes/dresse/moncler/412325/white/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["white"],
+    "description": "Little girls ivory padded dress by French luxury brand Moncler Enfant. Made in smooth nylon and lined in soft jersey, it has soft down padding for comfort and warmth. It has a front zip fastening concealed with a logo printed red rubber strip.",
+    "details": [
+      "100% polyamide (silky smooth nylon)",
+      "Lining: 100% cotton (soft & stretchy jersey)",
+      "Made in Italy",
+      "Padding: 90% down, 10% feather (lightweight)",
+      "Front zip fastening"
+    ],
+    "category": "dresse",
+    "productType": "tops",
+    "productNumber": 412325
+  },
+  {
+    "gender": "baibes",
+    "productName": "Girls Navy Blue Logo Dress",
+    "brand": "Moncler Enfant",
+    "price": 144990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "black",
+        "colorCode": "#121212"
+      },
+      {
+        "colorName": "white",
+        "colorCode": "#fafafa"
+      }
+    ],
+
+    "images": [
+      {
+        "imagesColor": "black",
+        "images": [
+          "/images/baibes/dresse/moncler/412175/black/1.jpg",
+          "/images/baibes/dresse/moncler/412175/black/2.jpg",
+          "/images/baibes/dresse/moncler/412175/black/3.jpg"
+        ]
+      },
+      {
+        "imagesColor": "white",
+        "images": [
+          "/images/baibes/dresse/moncler/412175/white/1.jpg",
+          "/images/baibes/dresse/moncler/412175/white/2.jpg",
+          "/images/baibes/dresse/moncler/412175/white/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["white", "black"],
+    "description": "Navy blue dress for younger girls by luxury French brand Moncler Enfant. Made in soft cotton sweatshirt jersey with a warm fleecy inside, it has a red front zipped pocket on the front. It has a contrasting nylon panel with a slight sheen on the hemline. The dress has a fabric logo patch, button fastenings on the back and a ribbed crewneck collar.",
+    "details": [
+      "95% cotton, 5% elastane",
+      "Machine wash (30*C)",
+      "Popper fastenings on back of dress"
+    ],
+    "category": "dresse",
+    "productType": "tops",
+    "productNumber": 412175
+  },
+  {
+    "gender": "baibes",
+    "productName": "Navy Blue Logo Hooded Dress",
+    "brand": "Moncler Enfant",
+    "price": 159990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "black",
+        "colorCode": "#121212"
+      }
+    ],
+
+    "images": [
+      {
+        "imagesColor": "black",
+        "images": [
+          "/images/baibes/dresse/moncler/412178/black/1.jpg",
+          "/images/baibes/dresse/moncler/412178/black/2.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["black"],
+    "description": "Navy blue hooded dress for little girls by luxury French brand Moncler Enfant, made in soft and stretchy cotton jersey. It has red towelling and beige appliqué detailing across the chest and front button fastening. It has contrasting white ribbed cuffs and a navy blue cuffed hemline.",
+    "details": [
+      "95% cotton, 5% elastane",
+      "Machine wash (30*C)",
+      "button fastening at the front"
+    ],
+    "category": "dresse",
+    "productType": "tops",
+    "productNumber": 412178
+  },
+  {
+    "gender": "baibes",
+    "productName": "Black Cotton Sweatshirt Dress",
+    "brand": "Moncler Enfant",
+    "price": 214990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "black",
+        "colorCode": "#121212"
+      },
+      {
+        "colorName": "white",
+        "colorCode": "#e3dede"
+      }
+    ],
+
+    "images": [
+      {
+        "imagesColor": "black",
+        "images": [
+          "/images/baibes/dresse/moncler/373543/black/1.jpg",
+          "/images/baibes/dresse/moncler/373543/black/2.jpg",
+          "/images/baibes/dresse/moncler/373543/black/3.jpg"
+        ]
+      },
+      {
+        "imagesColor": "white",
+        "images": [
+          "/images/baibes/dresse/moncler/373543/white/1.jpg",
+          "/images/baibes/dresse/moncler/373543/white/2.jpg",
+          "/images/baibes/dresse/moncler/373543/white/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["black", "white"],
+    "description": "Black hooded dress for girls by luxury French brand Moncler Enfant, made in soft cotton sweatshirt jersey. It has a silky pleated insert panel on the back and the brand's iconic logo patch on one sleeve. The hem is longer at the back than the front.",
+    "details": [
+      "100% cotton (soft sweatshirt jersey, mid-weight)",
+      "Machine wash (30*C)",
+      "Length: front above the knee, back knee length"
+    ],
+    "category": "dresse",
+    "productType": "tops",
+    "productNumber": 373543
+  },
+  {
+    "gender": "baibes",
+    "productName": "Girls White & Pink Dress",
+    "brand": "Moncler Enfant",
+    "price": 12990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "pink",
+        "colorCode": "#f5c9c9"
+      },
+      {
+        "colorName": "blue",
+        "colorCode": "#6eb5eb"
+      }
+    ],
+
+    "images": [
+      {
+        "imagesColor": "pink",
+        "images": [
+          "/images/baibes/dresse/moncler/372148/pink/1.jpg",
+          "/images/baibes/dresse/moncler/372148/pink/2.jpg"
+        ]
+      },
+      {
+        "imagesColor": "blue",
+        "images": [
+          "/images/baibes/dresse/moncler/372148/blue/1.jpg",
+          "/images/baibes/dresse/moncler/372148/blue/2.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["pink", "blue"],
+    "description": "A soft and stretchy white cotton jersey dress for little girls by Mayoral. It has a delightful girl print on the front, with sparkly silver glitter prints and pink 3D appliqués. There are broderie anglaise scalloped sleeves and a single button fastening on the back.",
+    "details": [
+      "95% cotton, 5% elastane (soft & stretchy jersey)",
+      "Machine wash (30*C)",
+      "Single button fastening on the back"
+    ],
+    "category": "dresse",
+    "productType": "tops",
+    "productNumber": 372148
+  },
+  {
+    "gender": "baibes",
+    "productName": "Pink Satin & Gold Tulle Dress",
+    "brand": "Mayoral",
+    "price": 12990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "pink",
+        "colorCode": "#f5c9c9"
+      },
+      {
+        "colorName": "white",
+        "colorCode": "#dfe4e8"
+      }
+    ],
+
+    "images": [
+      {
+        "imagesColor": "pink",
+        "images": [
+          "/images/baibes/dresse/mayoral/371842/pink/1.jpg",
+          "/images/baibes/dresse/mayoral/371842/pink/2.jpg",
+          "/images/baibes/dresse/mayoral/371842/pink/3.jpg"
+        ]
+      },
+      {
+        "imagesColor": "white",
+        "images": [
+          "/images/baibes/dresse/mayoral/371842/white/1.jpg",
+          "/images/baibes/dresse/mayoral/371842/white/2.jpg",
+          "/images/baibes/dresse/mayoral/371842/white/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["pink", "white"],
+    "description": "A beautiful pink and gold dress for little girls by Mayoral. It has a satin bodice and a matching detachable belt with tulle roses on the front. The skirt is made from layers of pink tulle with a soft cotton lining. The top layer of tulle has a tiny gold dotted print.",
+    "details": [
+      "95% cotton, 5% elastane (soft & stretchy jersey)",
+      "Machine wash (30*C)",
+      "Single button fastening on the back"
+    ],
+    "category": "dresse",
+    "productType": "tops",
+    "productNumber": 371842
+  },
+  {
+    "gender": "baibes",
+    "productName": "Pale Pink Pleated Dress",
+    "brand": "Mayoral",
+    "price": 19990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "pink",
+        "colorCode": "#f5c9c9"
+      },
+      {
+        "colorName": "white",
+        "colorCode": "#dfe4e8"
+      }
+    ],
+
+    "images": [
+      {
+        "imagesColor": "pink",
+        "images": [
+          "/images/baibes/dresse/mayoral/371762/pink/1.jpg",
+          "/images/baibes/dresse/mayoral/371762/pink/2.jpg",
+          "/images/baibes/dresse/mayoral/371762/pink/3.jpg"
+        ]
+      },
+      {
+        "imagesColor": "white",
+        "images": [
+          "/images/baibes/dresse/mayoral/371762/white/1.jpg",
+          "/images/baibes/dresse/mayoral/371762/white/2.jpg",
+          "/images/baibes/dresse/mayoral/371762/white/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["pink", "white"],
+    "description": "A pretty pale pink pleated dress for girls by Mayoral. The top layer is made in sheer textured voile with a large dot pattern over a layer of lightweight cotton beneath. There is a pretty fixed fabric rose and a silver metal and diamanté logo charm on the front.",
+    "details": [
+      "100% soft, lightweight polyester",
+      "Machine wash (30*C)",
+      "Zip fastening on the back"
+    ],
+    "category": "dresse",
+    "productType": "tops",
+    "productNumber": 371762
+  },
+  {
+    "gender": "baibes",
+    "productName": "Pink Floral Chiffon Dress",
+    "brand": "Mayoral",
+    "price": 17990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "pink",
+        "colorCode": "#f5c9c9"
+      }
+    ],
+
+    "images": [
+      {
+        "imagesColor": "pink",
+        "images": [
+          "/images/baibes/dresse/mayoral/371766/pink/1.jpg",
+          "/images/baibes/dresse/mayoral/371766/pink/2.jpg",
+          "/images/baibes/dresse/mayoral/371766/pink/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["pink"],
+    "description": "Lovely chiffon dress for younger girls by Mayoral, with an orange, green and blue floral print. Fully lined, it has pretty puffed sleeves with gently elasticated cuffs and a large fixed bow across the bodice. The skirt is full and gathered.",
+    "details": [
+      "100% polyester (soft, lightweight chiffon)",
+      "Machine wash (30*C)",
+      "Lining: 100% soft, lightweight cotton"
+    ],
+    "category": "dresse",
+    "productType": "tops",
+    "productNumber": 371766
+  },
+  {
+    "gender": "baibes",
+    "productName": "Pink & Green Cotton Dress",
+    "brand": "Mayoral",
+    "price": 15990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "pink",
+        "colorCode": "#f5c9c9"
+      }
+    ],
+
+    "images": [
+      {
+        "imagesColor": "pink",
+        "images": [
+          "/images/baibes/dresse/mayoral/371764/pink/1.jpg",
+          "/images/baibes/dresse/mayoral/371764/pink/2.jpg",
+          "/images/baibes/dresse/mayoral/371764/pink/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["pink"],
+    "description": "A beautiful dress for little girls by Mayoral, with a pink and green floral print on a white background. Made in soft lightweight cotton, it has little capped sleeves and a fixed bow on the front. There is an open back with pretty scalloped edges. It has a soft cotton petticoat lining for volume in the skirt.",
+    "details": [
+      "97% cotton, 3% elastane (soft, lightweight)",
+      "Machine wash (30*C)",
+      "Lining: 100% soft, lightweight cotton"
+    ],
+    "category": "dresse",
+    "productType": "tops",
+    "productNumber": 371764
+  },
+  {
+    "gender": "baibes",
+    "productName": "Girls Red & White Hearts Dress",
+    "brand": "Mayoral",
+    "price": 10990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "red",
+        "colorCode": "#cf2a21"
+      }
+    ],
+
+    "images": [
+      {
+        "imagesColor": "red",
+        "images": [
+          "/images/baibes/dresse/mayoral/371898/red/1.jpg",
+          "/images/baibes/dresse/mayoral/371898/red/2.jpg",
+          "/images/baibes/dresse/mayoral/371898/red/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["red"],
+    "description": "Red jersey dress for little girls by Mayoral, with a black and white hearts pattern. Soft and stretchy, it is made in sustainable cotton.",
+    "details": [
+      "92% sustainable cotton, 8% elastane (soft & stretchy)",
+      "Machine wash (30*C)",
+      "Back popper fastenings"
+    ],
+    "category": "dresse",
+    "productType": "tops",
+    "productNumber": 371898
+  },
+  {
+    "gender": "baibes",
+    "productName": "Navy Blue Jersey Jogger",
+    "brand": "Mayoral",
+    "price": 7990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "blue",
+        "colorCode": "#0d0d45"
+      },
+      {
+        "colorName": "yellow",
+        "colorCode": "#bdc96f"
+      },
+      {
+        "colorName": "gray",
+        "colorCode": "#a3a3a3"
+      },
+      {
+        "colorName": "red",
+        "colorCode": "#e03c1b"
+      }
+    ],
+
+    "images": [
+      {
+        "imagesColor": "blue",
+        "images": [
+          "/images/baibes/trousers/mayoral/372773/blue/1.jpg",
+          "/images/baibes/trousers/mayoral/372773/blue/2.jpg"
+        ]
+      },
+      {
+        "imagesColor": "yellow",
+        "images": [
+          "/images/baibes/trousers/mayoral/372773/yellow/1.jpg",
+          "/images/baibes/trousers/mayoral/372773/yellow/2.jpg"
+        ]
+      },
+      {
+        "imagesColor": "gray",
+        "images": [
+          "/images/baibes/trousers/mayoral/372773/gray/1.jpg",
+          "/images/baibes/trousers/mayoral/372773/gray/2.jpg"
+        ]
+      },
+      {
+        "imagesColor": "red",
+        "images": [
+          "/images/baibes/trousers/mayoral/372773/red/1.jpg",
+          "/images/baibes/trousers/mayoral/372773/red/2.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["blue", "yellow", "gray", "red"],
+    "description": "Younger boys navy blue joggers by Mayoral, made in soft cotton blend jersey. They have an elasticated drawstring waist and useful side pockets.",
+    "details": [
+      "58% cotton, 38% polyester, 4% elastane",
+      "Machine wash (30*C)",
+      "Drawstring waist"
+    ],
+    "category": "trousers",
+    "productType": "tops",
+    "productNumber": 372773
+  },
+  {
+    "gender": "baibes",
+    "productName": "Boys Blue Jersey Joggers",
+    "brand": "Mayoral",
+    "price": 11990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "blue",
+        "colorCode": "#827cf7"
+      }
+    ],
+
+    "images": [
+      {
+        "imagesColor": "blue",
+        "images": [
+          "/images/baibes/trousers/mayoral/372668/blue/1.jpg",
+          "/images/baibes/trousers/mayoral/372668/blue/2.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["blue"],
+    "description": "Younger boys blue joggers by Mayoral, with a washed and worn denim look. Made in soft organic cotton jersey, they have an elasticated drawstring waistband, striped in navy blue and ivory.",
+    "details": [
+      "79% organic cotton, 20% polyester, 1% elastane",
+      "Machine wash (30*C)",
+      "Organic Cotton"
+    ],
+    "category": "trousers",
+    "productType": "tops",
+    "productNumber": 372668
+  },
+  {
+    "gender": "baibes",
+    "productName": "Boys Dark Blue Regular Jeans",
+    "brand": "Mayoral",
+    "price": 9990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "blue",
+        "colorCode": "#827cf7"
+      }
+    ],
+
+    "images": [
+      {
+        "imagesColor": "blue",
+        "images": [
+          "/images/baibes/trousers/mayoral/372519/blue/1.jpg",
+          "/images/baibes/trousers/mayoral/372519/blue/2.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["blue"],
+    "description": "Little boys dark wash blue jeans by Mayoral, made in soft stretch denim with faded detailing. They have an elasticated drawstring waist, with front and back pockets.",
+    "details": [
+      "99% cotton, 1% elastane (soft stretch denim)",
+      "Machine wash (30*C)",
+      "Regular fit"
+    ],
+    "category": "trousers",
+    "productType": "tops",
+    "productNumber": 372519
+  },
+  {
+    "gender": "baibes",
+    "productName": "Boys Beige Chino Trousers",
+    "brand": "Mayoral",
+    "price": 13990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "beige",
+        "colorCode": "#d9d7bd"
+      }
+    ],
+
+    "images": [
+      {
+        "imagesColor": "beige",
+        "images": [
+          "/images/baibes/trousers/mayoral/372299/beige/1.jpg",
+          "/images/baibes/trousers/mayoral/372299/beige/2.jpg",
+          "/images/baibes/trousers/mayoral/372299/beige/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["beige"],
+    "description": "Beige slim fit chino trousers for younger boys by Mayoral, made in soft cotton with a slight stretch. They have slanted pockets on the front and button pockets on the back, with a useful adjustable waistband.",
+    "details": [
+      "98% cotton, 2% elastane",
+      "Machine wash (30*C)",
+      "Button fastening"
+    ],
+    "category": "trousers",
+    "productType": "tops",
+    "productNumber": 372299
+  },
+  {
+    "gender": "baibes",
+    "productName": "Blue Cotton Baby Trousers",
+    "brand": "Mayoral",
+    "price": 12990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "black",
+        "colorCode": "#1f2030"
+      }
+    ],
+
+    "images": [
+      {
+        "imagesColor": "black",
+        "images": [
+          "/images/baibes/trousers/mayoral/372724/black/1.jpg",
+          "/images/baibes/trousers/mayoral/372724/black/2.jpg",
+          "/images/baibes/trousers/mayoral/372724/black/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["black"],
+    "description": "Baby boys casual blue trousers by Mayoral. Made in slightly ridged, lightweight cotton, they have a slim fit and a useful, adjustable waistband. They come with a navy blue, beige and white patterned canvas belt.",
+    "details": ["98% cotton, 2% elastane", "Machine wash (30*C)", "Slim fit"],
+    "category": "trousers",
+    "productType": "tops",
+    "productNumber": 372724
+  },
+  {
+    "gender": "baibes",
+    "productName": "Boys Red Cotton Trousers",
+    "brand": "Emporio Armani",
+    "price": 49990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "red",
+        "colorCode": "#b5283b"
+      }
+    ],
+
+    "images": [
+      {
+        "imagesColor": "red",
+        "images": [
+          "/images/baibes/trousers/armani/385610/red/1.jpg",
+          "/images/baibes/trousers/armani/385610/red/2.jpg",
+          "/images/baibes/trousers/armani/385610/red/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["red"],
+    "description": "Baby boys casual blue trousers by Mayoral. Made in slightly ridged, lightweight cotton, they have a slim fit and a useful, adjustable waistband. They come with a navy blue, beige and white patterned canvas belt.",
+    "details": ["98% cotton, 2% elastane", "Machine wash (30*C)", "Slim fit"],
+    "category": "trousers",
+    "productType": "tops",
+    "productNumber": 385610
+  },
+  {
+    "gender": "baibes",
+    "productName": "Boys Blue Denim Jeans",
+    "brand": "Emporio Armani",
+    "price": 52990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "blue",
+        "colorCode": "#82a7cf"
+      }
+    ],
+
+    "images": [
+      {
+        "imagesColor": "blue",
+        "images": [
+          "/images/baibes/trousers/armani/385461/blue/1.jpg",
+          "/images/baibes/trousers/armani/385461/blue/2.jpg",
+          "/images/baibes/trousers/armani/385461/blue/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["blue"],
+    "description": "Little boys faded jeans by Emporio Armani, made in a soft cotton and viscose denim. They have a navy blue rubber logo plaque on the hip, and they fasten with a popper.",
+    "details": [
+      "50% cotton, 50% lyocell",
+      "Machine wash (30*C)",
+      "Popper fastening"
+    ],
+    "category": "trousers",
+    "productType": "tops",
+    "productNumber": 385461
+  },
+  {
+    "gender": "baibes",
+    "productName": "Blue Denim Logo Baby Jeans",
+    "brand": "Emporio Armani",
+    "price": 52990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "blue",
+        "colorCode": "#82a7cf"
+      }
+    ],
+
+    "images": [
+      {
+        "imagesColor": "blue",
+        "images": [
+          "/images/baibes/trousers/armani/385766/blue/1.jpg",
+          "/images/baibes/trousers/armani/385766/blue/2.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["blue"],
+    "description": "Baby boys blue washed, cotton denim jeans by Emporio Armani. Styled with five pockets, these pull-on jeans have a bright blue and white elasticated waistband with jacquard logo branding. There is a bronze metal Eagle logo on the back pocket.",
+    "details": [
+      "99% cotton denim, 1% elastane",
+      "Machine wash (30*C)",
+      "Pull-on style"
+    ],
+    "category": "trousers",
+    "productType": "tops",
+    "productNumber": 385766
+  },
+  {
+    "gender": "baibes",
+    "productName": "Boys Blue Jersey Jeans",
+    "brand": "BOSS Kidswear",
+    "price": 49990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "blue",
+        "colorCode": "#112236"
+      }
+    ],
+
+    "images": [
+      {
+        "imagesColor": "blue",
+        "images": [
+          "/images/baibes/trousers/boss/380821/blue/1.jpg",
+          "/images/baibes/trousers/boss/380821/blue/2.jpg",
+          "/images/baibes/trousers/boss/380821/blue/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["blue"],
+    "description": "Younger boys dark blue jeans by BOSS kidswear, made from soft cotton jersey with the look of denim. Comfortable to wear, they are a typical five pocket design, with a small branded plaque on the back pocket. They are a regular fit with a useful adjustable waistband, ideal for growing boys.",
+    "details": [
+      "51% cotton, 27% lyocell, 18% polyester, 2% elastane",
+      "Machine wash (30*C)",
+      "Zip & clasp fastenings on front of jeans",
+      "Adjustable waistband on all sizes"
+    ],
+    "category": "trousers",
+    "productType": "tops",
+    "productNumber": 380821
+  },
+  {
+    "gender": "baibes",
+    "productName": "Blue Slim Fit Jersey Shorts",
+    "brand": "BOSS Kidswear",
+    "price": 52990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "blue",
+        "colorCode": "#112236"
+      }
+    ],
+
+    "images": [
+      {
+        "imagesColor": "blue",
+        "images": [
+          "/images/baibes/trousers/boss/380726/blue/1.jpg",
+          "/images/baibes/trousers/boss/380726/blue/2.jpg",
+          "/images/baibes/trousers/boss/380726/blue/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["blue"],
+    "description": "Navy blue shorts for younger boys by BOSS Kidswear, with a washed and worn look. They are made in mid-weight cotton with the look of denim, but the comfort of jersey and have a useful, adjustable waistband. The brand's navy blue logo is embroidered on one of the turn-ups and there is a silver metal logo tab on the back.",
+    "details": [
+      "51% cotton, 27% lyocell, 20% polyester, 2% elastane",
+      "Machine wash (30*C)",
+      "Zip & clasp fastenings on front of jeans",
+      "Slim fit"
+    ],
+    "category": "trousers",
+    "productType": "tops",
+    "productNumber": 380726
+  },
+  {
+    "gender": "baibes",
+    "productName": "Blue Canvas Slip-On Trainers",
+    "brand": "Polo Ralph Lauren",
+    "price": 59990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "blue",
+        "colorCode": "#112236"
+      },
+      {
+        "colorName": "white",
+        "colorCode": "#f0f2f5"
+      }
+    ],
+
+    "images": [
+      {
+        "imagesColor": "blue",
+        "images": [
+          "/images/baibes/shoes/polo/375725/blue/1.jpg",
+          "/images/baibes/shoes/polo/375725/blue/2.jpg",
+          "/images/baibes/shoes/polo/375725/blue/3.jpg"
+        ]
+      },
+      {
+        "imagesColor": "white",
+        "images": [
+          "/images/baibes/shoes/polo/375725/white/1.jpg",
+          "/images/baibes/shoes/polo/375725/white/2.jpg",
+          "/images/baibes/shoes/polo/375725/white/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["blue", "white"],
+    "description": "Boys navy blue slip-on trainers by Polo Ralph Lauren, with the brand's Polo Bear is embroidered on the top. Made and lined in soft canvas, they have comfortable, padded insole and white non-slip rubber sole with yellow trim and logo on the heel.",
+    "details": [
+      "Soft canvas upper & lining",
+      "Padded insole",
+      "Rubber outsole",
+      "Slip-on"
+    ],
+    "category": "shoes",
+    "productType": "tops",
+    "productNumber": 375725
+  },
+  {
+    "gender": "baibes",
+    "productName": "White Logo Slip-On Trainers",
+    "brand": "Polo Ralph Lauren",
+    "price": 63990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "white",
+        "colorCode": "#f0f2f5"
+      },
+      {
+        "colorName": "blue",
+        "colorCode": "#112236"
+      }
+    ],
+
+    "images": [
+      {
+        "imagesColor": "white",
+        "images": [
+          "/images/baibes/shoes/polo/375731/white/1.jpg",
+          "/images/baibes/shoes/polo/375731/white/2.jpg",
+          "/images/baibes/shoes/polo/375731/white/3.jpg"
+        ]
+      },
+      {
+        "imagesColor": "blue",
+        "images": [
+          "/images/baibes/shoes/polo/375731/blue/1.jpg",
+          "/images/baibes/shoes/polo/375731/blue/2.jpg",
+          "/images/baibes/shoes/polo/375731/blue/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["blue", "white"],
+    "description": "Boys and girls navy blue slip-on trainers by Polo Ralph Lauren. They have the brand's signature pony logo embroidered on the front in red. Made and lined in cotton canvas, they have white logos printed on the sides, red elasticated vents and white non-slip rubber soles. A logo tab is on the back of the heel.",
+    "details": [
+      "Cotton canvas uppers & lining",
+      "Non-slip rubber soles",
+      "Slip-on style",
+      "Suitable for boys & girls"
+    ],
+    "category": "shoes",
+    "productType": "tops",
+    "productNumber": 375731
+  },
+  {
+    "gender": "baibes",
+    "productName": "White Slip-On Trainers",
+    "brand": "Polo Ralph Lauren",
+    "price": 72990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "white",
+        "colorCode": "#f0f2f5"
+      }
+    ],
+
+    "images": [
+      {
+        "imagesColor": "white",
+        "images": [
+          "/images/baibes/shoes/polo/375769/white/1.jpg",
+          "/images/baibes/shoes/polo/375769/white/2.jpg",
+          "/images/baibes/shoes/polo/375769/white/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["white"],
+    "description": "White slip-on trainers for boys and girls by Polo Ralph Lauren. Made in leather, they have the brand's signature pony logo embroidered in red on the tongue and printed on the heel. There are wide, red and navy blue cross-over, elasticated straps on the top, with a white logo on the side.",
+    "details": [
+      "Leather uppers",
+      "Textile lining",
+      "Non-slip rubber sole",
+      "Slip-on, with elasticated straps"
+    ],
+    "category": "shoes",
+    "productType": "tops",
+    "productNumber": 375769
+  },
+  {
+    "gender": "baibes",
+    "productName": "White  Trainers",
+    "brand": "Polo Ralph Lauren",
+    "price": 72990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "white",
+        "colorCode": "#f0f2f5"
+      }
+    ],
+
+    "images": [
+      {
+        "imagesColor": "white",
+        "images": [
+          "/images/baibes/shoes/polo/375749/white/1.jpg",
+          "/images/baibes/shoes/polo/375749/white/2.jpg",
+          "/images/baibes/shoes/polo/375749/white/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["white"],
+    "description": "White lace-up trainers for boys and girls by Polo Ralph Lauren. Made in leather, they have the brand's signature pony logo embroidered in green on the sides. There are navy blue trims, with green logos on the tongue and heel.",
+    "details": [
+      "Leather uppers",
+      "Textile lining",
+      "Non-slip rubber sole",
+      "Suitable for boys & girls"
+    ],
+    "category": "shoes",
+    "productType": "tops",
+    "productNumber": 375749
+  },
+  {
+    "gender": "baibes",
+    "productName": "Logo Trainers",
+    "brand": "Polo Ralph Lauren",
+    "price": 63990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "white",
+        "colorCode": "#f0f2f5"
+      }
+    ],
+
+    "images": [
+      {
+        "imagesColor": "white",
+        "images": [
+          "/images/baibes/shoes/polo/375763/white/1.jpg",
+          "/images/baibes/shoes/polo/375763/white/2.jpg",
+          "/images/baibes/shoes/polo/375763/white/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["white"],
+    "description": "White lace-up trainers for boys and girls by Polo Ralph Lauren. Made in faux leather, they have the brand's signature pony logo embroidered in red on the sides. There are navy blue and red trims, with logos on the tongue and heel.",
+    "details": [
+      "Leather uppers",
+      "Textile lining",
+      "Non-slip rubber sole",
+      "Suitable for boys & girls"
+    ],
+    "category": "shoes",
+    "productType": "tops",
+    "productNumber": 375763
+  },
+  {
+    "gender": "baibes",
+    "productName": "Black Patent Pre-Walker Shoes",
+    "brand": "Early Days Baypods",
+    "price": 16990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "black",
+        "colorCode": "#080808"
+      }
+    ],
+
+    "images": [
+      {
+        "imagesColor": "black",
+        "images": [
+          "/images/baibes/shoes/early-days/17607/black/1.jpg",
+          "/images/baibes/shoes/early-days/17607/black/2.jpg",
+          "/images/baibes/shoes/early-days/17607/black/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["black"],
+    "description": "Baby boys smart, black faux patent leather pre-walker shoes by Early Days. They have a soft cushioned insole and adjustable buckle detailing.",
+    "details": [
+      "Faux leather uppers & sole",
+      "Buckle fastening",
+      "Wipe clean",
+      "Made in England"
+    ],
+    "category": "shoes",
+    "productType": "tops",
+    "productNumber": 17607
+  },
+  {
+    "gender": "baibes",
+    "productName": "Blue Pre-Walker Baby Shoes",
+    "brand": "Early Days Baypods",
+    "price": 16990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "blue",
+        "colorCode": "#4ca0d9"
+      }
+    ],
+
+    "images": [
+      {
+        "imagesColor": "blue",
+        "images": [
+          "/images/baibes/shoes/early-days/410580/blue/1.jpg",
+          "/images/baibes/shoes/early-days/410580/blue/2.jpg",
+          "/images/baibes/shoes/early-days/410580/blue/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["blue"],
+    "description": "Pale blue pre-walker shoes for baby boys by Mayoral Newborn. Made from soft faux leather, they have a sweet cut out pattern with pale blue stitching detail. The velcro fastening strap has a faux buckle trim.",
+    "details": [
+      "Faux leather uppers & sole",
+      "Cotton lining & insole",
+      "Velcro fastening strap",
+      "Made in England"
+    ],
+    "category": "shoes",
+    "productType": "tops",
+    "productNumber": 410580
+  },
+  {
+    "gender": "baibes",
+    "productName": "Grey Pre-Walker Baby Shoes",
+    "brand": "Early Days Baypods",
+    "price": 15990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "gray",
+        "colorCode": "#74787a"
+      }
+    ],
+
+    "images": [
+      {
+        "imagesColor": "gray",
+        "images": [
+          "/images/baibes/shoes/early-days/410651/gray/1.jpg",
+          "/images/baibes/shoes/early-days/410651/gray/2.jpg",
+          "/images/baibes/shoes/early-days/410651/gray/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["gray"],
+    "description": "Grey lace-up pre-walker shoes for baby boys by Mayoral Newborn, with a soft suede feel. They have faux leather brogue punch trims and a check-patterned cotton lining.",
+    "details": [
+      "Soft textile uppers & soles, with faux leather trims",
+      "Soft cotton lining & insole",
+      "Lace-up fastening",
+      "Made in England"
+    ],
+    "category": "shoes",
+    "productType": "tops",
+    "productNumber": 410651
+  },
+  {
+    "gender": "baibes",
+    "productName": "Pre-Walker Baby Trainers",
+    "brand": "Early Days Baypods",
+    "price": 21990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "red",
+        "colorCode": "#d4382a"
+      }
+    ],
+
+    "images": [
+      {
+        "imagesColor": "red",
+        "images": [
+          "/images/baibes/shoes/early-days/410693/red/1.jpg",
+          "/images/baibes/shoes/early-days/410693/red/2.jpg",
+          "/images/baibes/shoes/early-days/410693/red/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["red"],
+    "description": "Red, navy blue and white pre-walker trainers for baby boys by Mayoral Newborn, made in soft faux leather and textile. They are lined in soft cotton and fasten with an elasticated velcro-fastening strap.",
+    "details": [
+      "Faux leather & textile",
+      "Cotton lining & insole",
+      "Elasticated velcro fastening strap",
+      "Made in England"
+    ],
+    "category": "shoes",
+    "productType": "tops",
+    "productNumber": 410693
+  },
+  {
+    "gender": "baibes",
+    "productName": "Baby Beige Pre-Walker Shoes",
+    "brand": "Early Days Baypods",
+    "price": 15990,
+    "size": ["7yr", "8yr", "9yr", "10yr", "11yr", "12yr"],
+    "colors": [
+      {
+        "colorName": "yellow",
+        "colorCode": "#ffd061"
+      }
+    ],
+
+    "images": [
+      {
+        "imagesColor": "yellow",
+        "images": [
+          "/images/baibes/shoes/early-days/410821/yellow/1.jpg",
+          "/images/baibes/shoes/early-days/410821/yellow/2.jpg",
+          "/images/baibes/shoes/early-days/410821/yellow/3.jpg"
+        ]
+      }
+    ],
+    "availableColor": ["yellow"],
+    "description": "Beige pre-walker boots for baby boys, by Mayoral Newborn. Made from soft faux leather, they have a navy blue bear badge on the side of each shoe and navy blue striped laces.",
+    "details": [
+      "Faux leather & textile",
+      "Cotton lining",
+      "Rubber pads on soles",
+      "Lace fastening"
+    ],
+    "category": "shoes",
+    "productType": "tops",
+    "productNumber": 410821
+  }
+]
